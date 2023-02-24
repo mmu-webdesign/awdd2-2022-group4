@@ -8,7 +8,7 @@ Add your three personas.
 
 ## Persona One
 
-<img src="sp1-media/persona.png" alt="Persona One" width="1000">
+<img src="sp2-media/Ella Jackson.png" alt="Persona One - Ella Jackson" width="1000">
 
 ### Name of persona
 Provide a description and explain how this persona was derived from your user research.
@@ -17,7 +17,7 @@ Provide a description and explain how this persona was derived from your user re
 
 ## Persona Two
 
-<img src="sp1-media/persona.png" alt="Persona Two" width="1000">
+<img src="sp2-media/Jason Brown.png" alt="Persona Two - Jason Brown" width="1000">
 
 ### Name of persona
 Provide a description and explain how this persona was derived from your user research.
@@ -26,7 +26,7 @@ Provide a description and explain how this persona was derived from your user re
 
 ## Persona Three
 
-<img src="sp1-media/persona.png" alt="Persona Three" width="1000">
+<img src="sp2-media/Dr Jackson.png" alt="Persona Three - Dr Jackson" width="1000">
 
 ### Name of persona
 Provide a description and explain how this persona was derived from your user research.
