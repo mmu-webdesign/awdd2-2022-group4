@@ -10,7 +10,7 @@ Add your three personas.
 
 <img src="sp2-media/Ella Jackson.png" alt="Persona One - Ella Jackson" width="1000">
 
-### Name of persona
+### Ella Jackson
 Provide a description and explain how this persona was derived from your user research.
 
 ---
@@ -19,7 +19,7 @@ Provide a description and explain how this persona was derived from your user re
 
 <img src="sp2-media/Jason Brown.png" alt="Persona Two - Jason Brown" width="1000">
 
-### Name of persona
+### Jason Brown
 Provide a description and explain how this persona was derived from your user research.
 
 ---
@@ -28,5 +28,5 @@ Provide a description and explain how this persona was derived from your user re
 
 <img src="sp2-media/Dr Jackson.png" alt="Persona Three - Dr Jackson" width="1000">
 
-### Name of persona
+### Dr Jackson
 Provide a description and explain how this persona was derived from your user research.
