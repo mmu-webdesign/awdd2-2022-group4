@@ -6,7 +6,7 @@ Add your three storyboards.
 
 ## Storyboard One
 
-<img src="sp1-media/storyboard.png" alt="Storyboard One" width="1000">
+<img src="sp2-media/Ella Jackson - Storyboard.png" alt="Storyboard One" width="1000">
 
 ### Name of persona in this storyboard - Ella Jackson - a international student attending University for the first time. 
 
@@ -17,7 +17,7 @@ This Storyboard walks through a common scenario of an international student movi
 
 ## Storyboard Two
 
-<img src="sp1-media/storyboard.png" alt="Storyboard Two" width="1000">
+<img src="sp2-media/Jason Brown - Storyboard.png" alt="Storyboard Two" width="1000">
 
 ### Name of persona in this storyboard - Jason Brown - A degree Apprentice. 
 
