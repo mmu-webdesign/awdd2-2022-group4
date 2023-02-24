@@ -1,8 +1,6 @@
 # Personas
 
-Add your three personas.
-
-*Tutors will download the image to view the full size persona*.
+Our three personas are a full- time international uni student who has a part- time job, a degree- apprentice who works full- time and commutes to uni, and a lecturer at the university. These three personas are the most realsitic representation of university stakeholders according to our interviews, and so our guide to fashion can be made more inclusive to involve everyone at the university. 
 
 <!-- edit as required -->
 
