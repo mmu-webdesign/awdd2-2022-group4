@@ -16,6 +16,15 @@ _Insert images/illustrations using `<img>` including photographic evidence of th
 - bananas
 - etc.
 
+
+|               |               |       |     |
+|---            |---            |---    |---  |
+|               |               |       |     |
+|               |               |       |     |
+|               |               |       |     |
+
+
+
 ### Cart sort results
 
 Illustrated summary of your findings.
