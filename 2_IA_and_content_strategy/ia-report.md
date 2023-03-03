@@ -17,11 +17,11 @@ _Insert images/illustrations using `<img>` including photographic evidence of th
 - etc.
 
 
-|               |               |       |  |
-|               |               |       |  |
-|               |               |       |  |
-|               |               |       |  |
-|               |               |       |  |
+|               |               |       |     |
+|---            |---            |---    |---  |
+|               |               |       |     |
+|               |               |       |     |
+|               |               |       |     |
 
 
 
