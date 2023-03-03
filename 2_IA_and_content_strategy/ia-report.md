@@ -6,7 +6,7 @@
 
 ### Introduction
 
-Card Sorting is a technique used categorising and understanding information. in order toi build a fully functional and efficient website, we decided to use this approach to plan what would help create an intuitive and fluid user experience. We followed the Open Card Sort method, which allowed us to sort the cards into categories that made sense to us and gave us he flexibility to name them ourselves.
+Card Sorting is a technique used categorising and understanding information. In order to build a fully functional and efficient website, we decided to use this approach to plan what would help create an intuitive and fluid user experience. We followed the Open Card Sort method, which allowed us to sort the cards into categories that made sense to us and gave us he flexibility to name them ourselves.
 
 In order to do this, we listed a few ideas individually which we took note of on 'Optimal Workshop' and then all took turns creating categories. Once completed, we compared these to find common trends and differences, which will be further used for categorisation.
 
