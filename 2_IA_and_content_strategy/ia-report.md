@@ -12,9 +12,26 @@ _Insert images/illustrations using `<img>` including photographic evidence of th
 
 ### List of the card elements
 
-- oranges
-- bananas
-- etc.
+- Womens tops
+- Womens Trousers
+- Mens Tops
+- Mens Trousers 
+- Gender Neutral 
+- Diversity and inclusion 
+- Blog
+- News
+- About Us
+- Accessories 
+- Contact Us
+- FAQ
+- Feedback Form 
+- Site Map 
+- Outfit Inspiration
+- Map of Manchester 
+- Discounts 
+- Socials 
+- Exclusive drops 
+- Home Page .
 
 
 |               |               |       |     |
