@@ -6,6 +6,10 @@
 
 ### Introduction
 
+Card Sorting is a technique used categorising and understanding information. in order toi build a fully functional and efficient website, we decided to use this approach to plan what would help create an intuitive and fluid user experience. We followed the Open Card Sort method, which allowed us to sort the cards into categories that made sense to us and gave us he flexibility to name them ourselves.
+
+In order to do this, we listed a few ideas individually which we took note of on 'Optimal Workshop' and then all took turns creating categories. Once completed, we compared these to find common trends and differences, which will be further used for categorisation.
+
 Illustrated account of your process.
 
 _Insert images/illustrations using `<img>` including photographic evidence of the testing sessions_.
@@ -42,10 +46,11 @@ _Insert images/illustrations using `<img>` including photographic evidence of th
 
 
 
-### Card sort results
+### Cart sort results
 
-After we completed the open- card sort, results showed that we had 3 similar groups awith similar labels within. The first main group was 'Clothes', which held similar group labels such as 'Clothing', 'Products' and 'Clothing for all'. The second main group was 'Finding Information' which contained group labels such as 'Home' and 'Contacting'. The third main group was 'News and Trends' which held group labels such as 'Offers' and 'up and coming'. Other common groups identified included 'local to Manchester' and 'Customer Benefits'. These results show the ways individuals link different headings for our guide/ website and helps us to understand how we may structure the site to make it the most efficient and easy to use. By grouping items together under associated group labels, it makes it easier for the site users to find the information they require. 
+Illustrated summary of your findings.
 
+---
 
 ## Tree testing
 
