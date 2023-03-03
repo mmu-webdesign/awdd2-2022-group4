@@ -22,6 +22,8 @@ The website will offer a variety of guides to how to dress to suit the Mancheste
 
 ## Business objectives/goals
 
+### Objectives
+
 The main objectives/ goals for this Webpage are:
 
 
@@ -33,7 +35,14 @@ The main objectives/ goals for this Webpage are:
 
 3- To contribute to the local area by offering an inclusive guide to all individuals who wish to embrace the Manchester culture.  
 
- 
+ ### Goals
+
+ Where?
+
+ What?
+
+ How?
+
 
 ## Primary audience(s)
 
@@ -43,7 +52,7 @@ Our target users are Manchester Met Uni students who want to stay ahead on the M
 Gender - gender fluid, a site for everyone.
 
 
-Age - Manchester Met students 18+
+Age - Students  18+
 
 
 Education - Fashion-forward thinkers, not limited to an education level.
