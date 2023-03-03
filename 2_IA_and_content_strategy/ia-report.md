@@ -44,9 +44,8 @@ _Insert images/illustrations using `<img>` including photographic evidence of th
 
 ### Cart sort results
 
-Illustrated summary of your findings.
+After we completed the open- card sort, results showed that we had 3 similar groups awith similar labels within. The first main group was 'Clothes', which held similar group labels such as 'Clothing', 'Products' and 'Clothing for all'. The second main group was 'Finding Information' which contained group labels such as 'Home' and 'Contacting'. The third main group was 'News and Trends' which held group labels such as 'Offers' and 'up and coming'. These results show the ways individuals link different headings for our guide/ website and helps us to understand how we may structure the site to make it the most efficient and easy to use. By grouping items together under associated group labels, it makes it easier for the site users to find the information they require. 
 
----
 
 ## Tree testing
 
