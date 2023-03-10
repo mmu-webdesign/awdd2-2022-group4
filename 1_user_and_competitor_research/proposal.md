@@ -33,10 +33,10 @@ The main objectives/ goals for this Webpage are:
 
  ### Goals
  
-* After Interviewing particpents, these are the common questions/goals we hope the answer. 
+* After interviewing particpents, these are the common questions/goals we hope the answer. 
 * Where can I find discounts for Manchester Fashion clothing stores?
 * Where are the popular shops in Manchester? 
-* What Fahion Brands are popular in Manchester for a Student?
+* What Fashion Brands are popular in Manchester for a Student?
 * What is the latest Fashion news in Manchester?
 * How can I dress like a trendy Manchester Metroploitain Uni student?
 * How can I support local Manchester Businesses? 
