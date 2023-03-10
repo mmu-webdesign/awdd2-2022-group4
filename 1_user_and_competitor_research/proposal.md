@@ -28,13 +28,14 @@ The main objectives/ goals for this Webpage are:
 
  ### Goals
  
-* After interviewing particpants, these are the common questions/goals we hope the answer. 
-* Where can I find discounts for Manchester Fashion clothing stores?
+After interviewing particpants, these are the common questions/goals we hope the answer. 
+
+* Where to find discounts for Manchester Fashion clothing stores?
 * Where are the popular shops in Manchester? 
 * What Fashion Brands are popular in Manchester for a Student?
 * What is the latest Fashion news in Manchester?
-* How can I dress like a trendy Manchester Metropolitan Uni student?
-* How can I support local Manchester Businesses? 
+* How to dress like a trendy Manchester Metropolitan Uni student?
+* How to support local Manchester Businesses? 
 
 
 ## Primary audience(s)
@@ -75,5 +76,4 @@ We want to communicate that this is a safe space for any new or returning studen
 
 
 The site will convey this message by being user friendly, simple branding that caters to people of a student age. It will have relevant pop culture references and the language used will make students feel like they are talking to a friend about fashion rather than using a website. This unique approach will stand this website apart from its competitors and propel it into mainstream us amongst students attending Manchester Met Uni
-
 
