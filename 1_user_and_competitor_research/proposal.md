@@ -33,13 +33,13 @@ The main objectives/ goals for this Webpage are:
 
  ### Goals
  
-⋅⋅* After Interviewing particpents, these are the common questions/goals we hope the answer. 
-⋅⋅* Where can I find discounts for Manchester Fashion clothing stores?
-⋅⋅* Where are the popular shops in Manchester? 
-⋅⋅* What Fahion Brands are popular in Manchester for a Student?
-⋅⋅* What is the latest Fashion news in Manchester?
-⋅⋅* How can I dress like a trendy Manchester Metroploitain Uni student?
-⋅⋅* How can I support local Manchester Businesses? 
+* After Interviewing particpents, these are the common questions/goals we hope the answer. 
+* Where can I find discounts for Manchester Fashion clothing stores?
+* Where are the popular shops in Manchester? 
+* What Fahion Brands are popular in Manchester for a Student?
+* What is the latest Fashion news in Manchester?
+* How can I dress like a trendy Manchester Metroploitain Uni student?
+* How can I support local Manchester Businesses? 
 
 
 ## Primary audience(s)
@@ -47,17 +47,17 @@ The main objectives/ goals for this Webpage are:
 Our target users are Manchester Met Uni students who want to stay ahead on the Manchester Fashion scene, whilst accessing exclusive drops and special discount codes.
 
 
-⋅⋅* Gender - gender fluid, a site for everyone.
-⋅⋅* Age - Students  18+
-⋅⋅* Education - Fashion-forward thinkers, not limited to an education level.
-⋅⋅* Occupation - Everyone, this is an inclusive site and focuses on peoples love of fashion not what they do for a living. It allows all occupations to express themselves in a way that adheres to the Manchester Fashion scene.
-⋅⋅* Income - due to the discounts on the site, this website will cater to everyone’s income.
-⋅⋅* Preferred OS - user agnostic (any we will cater to as many as possible).
-⋅⋅* Browser - Chromium, Firefox and safari.
-⋅⋅* Computer device - mobile phone/ smart phone primarily but will allow for a laptop view.
-⋅⋅* Internet skill level - open to all. It will be an easy to navigate site, so we do not exclude anyone.
-⋅⋅* Audience goals - To keep up with the latest streetwear trends that suit the Manchester climate/environment.
-⋅⋅* Audience needs - a guide to where all the shops are, the best brands, any discount codes, direct links to brand websites. A one stop shops to Manchester fashion scene and how to be a part of the latest trends.
+* Gender - gender fluid, a site for everyone.
+* Age - Students  18+
+* Education - Fashion-forward thinkers, not limited to an education level.
+* Occupation - Everyone, this is an inclusive site and focuses on peoples love of fashion not what they do for a living. It allows all occupations to express themselves in a way that adheres to the Manchester Fashion scene.
+* Income - due to the discounts on the site, this website will cater to everyone’s income.
+* Preferred OS - user agnostic (any we will cater to as many as possible).
+* Browser - Chromium, Firefox and safari.
+* Computer device - mobile phone/ smart phone primarily but will allow for a laptop view.
+* Internet skill level - open to all. It will be an easy to navigate site, so we do not exclude anyone.
+* Audience goals - To keep up with the latest streetwear trends that suit the Manchester climate/environment.
+* Audience needs - a guide to where all the shops are, the best brands, any discount codes, direct links to brand websites. A one stop shops to Manchester fashion scene and how to be a part of the latest trends.
 
 
 
@@ -66,11 +66,11 @@ Our target users are Manchester Met Uni students who want to stay ahead on the M
 Corporate design considerations (logo, branding, etc.), abstract qualities (friendly, professional, approachable, etc.), key visual attributes (colour, graphic style personality (that the site reflects or embodies), language (professional, informal, or instructional, etc.). How will the site deliver the desired perception_?
 Streetwear centred with special focus to the Mancunium up and coming fashion scene Our Kid - minimal branded logo with a bee in it
 
-⋅⋅* 18+ demographic styled language (slang/informal)
-⋅⋅* Minimal colours used for the background i.e. black, white, grey, yellow
-⋅⋅* Header should have a background of Manchester skyline
-⋅⋅* Will include a variety of pictures of clothes for sale and outfit inspiration. 
-⋅⋅* Should be aesthetically pleasing and functional to use. 
+* 18+ demographic styled language (slang/informal)
+* Minimal colours used for the background i.e. black, white, grey, yellow
+* Header should have a background of Manchester skyline
+* Will include a variety of pictures of clothes for sale and outfit inspiration. 
+* Should be aesthetically pleasing and functional to use. 
 
 
 
