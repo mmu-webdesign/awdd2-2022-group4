@@ -57,15 +57,28 @@ Using the strongest correlation of data from the Card Sort, we initially created
 
 <img src="sp2-media/TreeTest1Architecture.png" alt="Diagram of initial architecture">
 
-The two tasks we asked users to complete were to find a "Map of Manchester" and "Find all clothing sections"
+The two tasks we asked users to complete were:
+
+- Find the Map of Manchester
+- Find all clothing sections
 
 #### Tree Test Arch 2
 
 <img src="sp2-media/TreeTest2Architecture.png" alt="Diagram of refreshed architecture">
 
+The two tasks we asked users to complete were:
+
+- Find the Map of Manchester
+- Find all clothing sections
+
 #### Tree Test Arch 3
 
 <img src="sp2-media/TreeTest3Architecture.png" alt="Diagram of final proposed architecture">
+
+The two tasks we asked users to complete were:
+
+- Find Mens Outfit Inspirations
+- Find News
 
 ### Tree testing results
 
