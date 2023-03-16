@@ -1,11 +1,10 @@
 # User Research
 
 ## Summary
-
-**Word count** provide a summary (300 word maximum) of your findings.
+We interviewed a wide and diverse range of individuals to gather a realistic understanding of who we are aiming our website at, and how to make it as inclusive as possible. These individuals were aged between 20 and 50 of all genders, and included full- time students, part- time students and lecturers. This allowed us to gather a realistic view of the type of audience our guide should be aimed at. Many of them have different hobbies and interests from holidays and spa days to Parties and self- image. Contrastingly, many of them have different dislikes from raves and rugby to mi- represented fashion. From this representation of individuals at MMU it is clear that there are differing opinions on fashion throughout. For some, self- image is very important and fashion is a big part of that, whilst for others, fashion could be seen as practical to fit in with day to day activities such as commuting and sports. Furthermore, it is important to note that some of the individuals interviewed live in Manchester full- time, whilst others commute to the university regularly. This comparison between city- life and potentially rural or town- life could have a big impact on the way an individual may dress. This research has allowed us to gather information about all the different kinds of individuals at MMU and reflects all of the different practicalities and uses for fashion. Our website will aim to be inclusive of all of these individuals, and will have different web pages to allow for diverse ranges of clothes and advice on fashion. We will ensure to have an FAQ page and latest news page to ensure that our personal opinions do not overshadow the latest trends and to ensure that a variety of advice is given to promote an inclusive guide. 
 
 ---
-## Profiles - Profile 1
+## Profile 1
 
 - Name: Raheem Sarwar (Lecturer at Manchester Metroploitan Uni) 
 
@@ -16,28 +15,19 @@ Lecturer at Manchester Metropoltian uni
 
 - Description or quote: A young male who has recently moved to Manchester. Is intrested in the cities culture and would love to learn more from his peers about what is considered fashionable for this city. Raheem has admitted he too would benefit from this site as he to would utilise the discount codes and fashion advice.  
 
-
 - Likes: Holidays, music, brunch, spa days
 
-Holidays  
-Manchester united  
-The social scene 
-
-
 - Dislikes: The traffic, The Manchester Weather 
-
 
 - Needs and goals:
 * To help students integrate into the local fashion community.
 * To encourage creativity amongst students
 * To prove that lecturers are approachable and can be helpful towards issues that are not always academic related
 
-
 Raheem believes the website would be ideal for new students who have never vistited the city. It breaks the inital barriers and gives them an insight into what is current and trendy within the vibrant city. It reduces any nerves felt by students who would like to make a good first impression amoungst their peers and gives them an insight into the coolest places to shop and visit. 
 
----
 
-## Profiles - profile 2
+## Profile 2
 
 - Name: George Scott 
 
@@ -54,7 +44,7 @@ Raheem believes the website would be ideal for new students who have never visti
 - Needs and goals: George believes this website could be the answer to his needs as long as it includes relevant discount codes to different places in the city and a detailed breakdown of the different fashion genres commonly seen in the city. He expects a clean website, that is user friendly and is branded to give a clear impression that this website in Manchester based. He wants it to be patriotic to the city and taliored for students like him.
 
 
-## Profiles 4
+## Profiles 3
 
 - Name: Becca Grant  
 
@@ -70,7 +60,7 @@ Raheem believes the website would be ideal for new students who have never visti
 
 - Needs and goals: Becca needs the guide to MMU fashion to help get involved with other students at the university and feel more included in events that may take place 
 
-## Profiles 5
+## Profiles 4
 
 - Name: Chloe Beehart 
 
@@ -86,7 +76,7 @@ Raheem believes the website would be ideal for new students who have never visti
 
 - Needs and goals: She likes to set the trends and wants to be up to date with all of the latest looks. The MMU guide to fashion would be a place for her to gather ideas and stay up to date with weekly style changes. 
 
-## Profiles 6
+## Profile 5
 
 - Name: Dr Ihsan Faraj 
 
@@ -103,7 +93,7 @@ Raheem believes the website would be ideal for new students who have never visti
 - Needs and goals: The MMU guide to students would help Ihsan to help students who feel self- concious, and promote individuality. The guide would help these students to express themselves and could be supported by lecturers. 
 
 
-## Profiles - profile 7
+## Profile 6
 
 
 - Name: Jack McConnell
@@ -119,7 +109,7 @@ Raheem believes the website would be ideal for new students who have never visti
 - Needs and Goals: Ability to control Work(University)/ Football/ Life balance
 
 
-## Profiles - Profile 8
+## Profile 7
 
 - Name: Laura Brown
 
@@ -136,7 +126,7 @@ Raheem believes the website would be ideal for new students who have never visti
 * Keep up to date
 * Cookie Management (Consent etc.)
 
-## Profiles - Profile 9
+## Profile 8
 
 - Name: Jack Trees
 
@@ -153,7 +143,7 @@ Raheem believes the website would be ideal for new students who have never visti
 * Where the Cheapest place is to but the item
 * Webform for a newsletter
 
-## Profiles - Profile 10
+## Profile 9
 
 - Name:Beryl Burns
 
@@ -165,10 +155,9 @@ Raheem believes the website would be ideal for new students who have never visti
 
 - Dislikes: Clubbing, alcohol, late nights 
 
--
----
 
-## Profiles - Profile 11
+
+## Profile 10
 
 - Name: Sam Harding
 
@@ -178,15 +167,12 @@ Raheem believes the website would be ideal for new students who have never visti
 
 - Description or quote: Sam is a degree apprentice, which means he works 4 days a wek and is at uni once a week.He's quite sporty and keeps up with trends. He's a local and is looking to get more into fashion and explore the local fashion scene.
 
-- Likes
-- football,rugby, music, MMA, nights out
+- Likes: football,rugby, music, MMA, nights out
 
-- Dislikes
-- art galeries, Bold coloured, formal clothing 
+- Dislikes: art galeries, Bold coloured, formal clothing 
 
 - Needs and goals: to find nice clothing to add to his collection 
 
 
 
-<!--This can be deleted prior to submission -->
 
