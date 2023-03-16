@@ -13,10 +13,7 @@ We were able to identify our top 3 ideas that would offer a variety of materials
 
 We investigated offering discount codes, a guide to trendy shops, what is the biggest trends and popular fashion genres seen in the city. We also identified areas we could provide statistics about our users to benefit our users, such as popular trends provided in table form. 
 
-
-Put your media in the `sp1-media` folder.
-
-Embed the images in the markdown file using either of these methods.
+## Planning Documents
 
 <img src="sp1-media/Brianstormonbranding.jpg" alt="Brainstormon Branding Mind Map" title="Brainstormon branding">
 
@@ -26,12 +23,3 @@ Embed the images in the markdown file using either of these methods.
 
 <img src="sp1-media/WebsiteSpecific.jpg" alt="Website Specific" title="Website">
 
-```
-<img src="sp1-media/octocat.png" alt="Octocat" title="something">
-```
-
-![Alt text](sp1-media/octocat.png?raw=true "Title")
-
-```
-![Alt text](sp1-media/octocat.png?raw=true "Title")
-```
