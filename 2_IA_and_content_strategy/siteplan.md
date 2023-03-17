@@ -2,14 +2,15 @@
 
 Add your initial site plan for SP2, and any further revisions for SP5. Include commentary.
 
-*Tutors will download the image to view the full size persona*.
+
 
 ## Original Site Plan
 
-<img src="sp2-media/siteplan.png" alt="Persona One" width="1000">
+<img src="sp2-media/SiteMapv1.jpg" alt="Site Plan based on Tree Testing" width="1000">
 
 ### Commentary
-You have established this architecture following the card sort and tree testing. Explain the architecture that we now see.
+
+The Site Plan Architecture has been pulled together following the success of the final iteration of the Tree Test. The group is comfortable that this details included are a good fit for the inital website. The ordering is not currently set in stone for the order of the menu items, however this will be reviewed during detailed Website Designs
 
 ---
 
