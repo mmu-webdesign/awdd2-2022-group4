@@ -20,8 +20,6 @@ My personal influences for this mood board include having local imaged of Manche
 <img src="sp3-media/MoodBoard-Bryan.PNG" alt="Bryan Ebune" width="1000">
 
 ### Bryan Ebune
-Explain how your personal influences and inspirations for this moodboard.
-
 My personal influences for this mood board are catered around imagery and colour. Imagery and colour serve as a focal point for each website as these are the first things they notice. If this is well executed, user retention is more guaranteed as vivid colour, white spacing and high-quality images are more likely to garner attention. Using images of people closer to the target audience creates some sense of reliability as they see themselves in whatever is being sold/advertised to the users. The use of simple colours like black and white keep the websites simple and easy to navigate. These are aspects which I would like to add to our website as I think it would be well received by the target audience.
 
 ---
