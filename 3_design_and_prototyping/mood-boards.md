@@ -8,7 +8,7 @@ Add a moodboard for each team member plus a final team moodboard.
 
 ## Moodboard One
 
-<img src="sp3-media/Moodboard- Adele" alt="Adele Le Moignan" width="1000">
+<img src="sp3-media/Moodboard- Adele.png" alt="Adele Le Moignan" width="1000">
 
 ### Name of team member
 Explain how your personal influences and inspirations for this moodboard.
