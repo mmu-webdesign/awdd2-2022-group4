@@ -52,4 +52,6 @@ My inspiration for this moodboard is related to what is going on in Manchester n
 ### Team mood board final decisions 
 
 
+As a team, we decided we liked elements from each mood board. We believe a minimlist approach, similar to Bryan's mood board, was the best approach for the majority of the site. However, to make it feel like a Mnachester site we are going to incorporate elemnets such as the bee, the colour yellow as an accent colour, and the Manchester skyline in the header of the website, so the site resonates with our target audiance. Moreover, we have decided to go with Geometric Sans Serif as a font as it is easy to read, commonly used in fashion websites, and allows for the clients focus to be on the content of the site and not the style of the written words. Furthermore, we decided that our discounts section would include more colour and splashes of yellow to show that this is an exciting part of the website. We believe adding colour to this part of the site will make it more engaging for our clients and show that this is a great part of the website. 
+
 ---
