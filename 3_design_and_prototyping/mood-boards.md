@@ -17,7 +17,7 @@ My personal influences for this mood board include having local imaged of Manche
 
 ## Moodboard Two
 
-<img src="sp3-media/MoodBoard-Bryan.png" alt="Bryan Ebune" width="1000">
+<img src="sp3-media/MoodBoard-Bryan.PNG" alt="Bryan Ebune" width="1000">
 
 ### Bryan Ebune
 Explain how your personal influences and inspirations for this moodboard.
