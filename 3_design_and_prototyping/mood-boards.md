@@ -28,8 +28,11 @@ Explain how your personal influences and inspirations for this moodboard.
 
 <img src="sp3-media/mood board .png" alt="Lucy Barrow" width="1000">
 
-### Name of team member
-Explain how your personal influences and inspirations for this moodboard.
+### Lucy Barrow
+
+My Personal influences and inspirations for this mood board involve having barnding that resnoates with the the culture of Manchester. I believe it is important to incorporate Manchester icons, such as the bee, and Manchester colour schemes such as yellow and dark red. However, I am aware that we are trying to promote a product and we are a site that hosts numerous brands, each with their own unique branding. Therefore, I believe it is important to make the branding minimalist to allow for the individual local brands to shine. I noticed that this was a technique used by many big fashion brands, who pick an accent colour and a easy to read font that showcases the product itself. This is were I have drawn inspriation on my mood board, which has explored Manchester branding, common colour schemes, typography and what is the common branding trends for fashion websites. I believe the best approach for our websites branding would be to have small Manchetser specific elements whilst using an overal minimalistic theme to allow us to create a website that is easy to naviagte and looks appealing to students. 
+
+
 
 ---
 
