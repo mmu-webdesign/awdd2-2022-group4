@@ -6,13 +6,15 @@
 
 ### Introduction
 
-Card Sorting is a technique used categorising and understanding information. It is a relaible technique which allows us to further enhance the designing process. 
+Card Sorting is a technique used categorising and understanding information. It is a reliable technique which allows us to further enhance the designing process. 
 
-In order to build a fully functional and efficient website, we decided to use the Open Card sort approach to plan what would help create an intuitive and fluid user experience. The Open Card Sort method, consisted of sorting a number of cards into categories that made sense to our tester group. This enabled us to understand how clients would intuitivley us our website and how they would search for infomration. The open card method also allowed our tester group the flexibility to name each catagory. This approach allowed us to explore numerous catagory options and due to our tester group being Manchester natives, we were able to explore catagory names that resinated with the Manchester culture.
+In order to build a fully functional and efficient website, we decided to use the Open Card sort approach to plan what would help create an intuitive and fluid user experience. The Open Card Sort method consisted of sorting a number of cards into categories that made sense to our tester group. This enabled us to understand how clients would intuitively us our website and how they would search for information. The open card method also allowed our tester group the flexibility to name each category. This approach allowed us to explore numerous category options and due to our tester group being Manchester natives, we were able to explore category names that resonated with the Manchester culture.
 
-We tasked our tester group with quickly sorting each card, which related to fashion and the Manchester Culture, into various catagories. We gave them a short time frame of 3 minutes to do this so we could understand how they would naturally navigate a website and not giving them enough time to think about the catagories too much. Once the tester group had completed their card sort, we collated the results of the workshop. We reviewed the catagories each individual had picked and explored the different trends and any common themes that repeatedly came up. This helped us to understand our target audience more and allowed us to decided the best catagoristation to use for our website. 
+We tasked our tester group with quickly sorting each card, which related to fashion and the Manchester Culture, into various categories. We gave them a short time frame of 3 minutes to do this so we could understand how they would naturally navigate a website and not giving them enough time to think about the categories too much. Once the tester group had completed their card sort, we collated the results of the workshop. We reviewed the categories each individual had picked and explored the different trends and any common themes that repeatedly came up. This helped us to understand our target audience more and allowed us to decide the best categorisation to use for our website. 
 
-Illustrated account of your process. The below image shows two of our test group users completing the card sord on the software we were using to complete the activity. 
+Illustrated account of your process: 
+
+The below image shows two of our test group users completing the card sord on the software we were using to complete the activity.
 
 _Insert images/illustrations using `<img>` including photographic evidence of the testing sessions_.
 <img src="sp2-media/CardSortInProgress.jpg">
@@ -44,7 +46,16 @@ _Insert images/illustrations using `<img>` including photographic evidence of th
 
 ### Cart sort results
 
-After we completed the open- card sort, results showed that we had 3 similar groups awith similar labels within. The first main group was 'Clothes', which held similar group labels such as 'Clothing', 'Products' and 'Clothing for all'. The second main group was 'Finding Information' which contained group labels such as 'Home' and 'Contacting'. The third main group was 'News and Trends' which held group labels such as 'Offers' and 'up and coming'. Other common groups identified included 'local to Manchester' and 'Customer Benefits'. These results show the ways individuals link different headings for our guide/ website and helps us to understand how we may structure the site to make it the most efficient and easy to use. By grouping items together under associated group labels, it makes it easier for the site users to find the information they require.
+After we completed the open- card sort, results showed that we had 3 similar groups, all with similar labels within. 
+
+The first category that appeared often was 'Clothes'. There were similar categorisation labels such as 'Clothing', 'Products' and 'Clothing for all'. This allowed us to understand that having a category on our website that followed this naming convention. 
+
+The second main group was 'Finding Information'. which contained group labels such as 'Home' and 'Contacting' within the main category label. This again highlighted that individuals like a separate section that includes extra information and having it as a separate category would be beneficial as it would limit confusion for our clients. 
+
+The third main group was 'News and Trends', which held group labels such as 'Offers' and 'up and coming'. This highlighted that we needed to include a section that specifically focused on news and events to truly provide the best service for our clients. 
+
+Other common groups identified included 'local to Manchester' and 'Customer Benefits'. The results, from the card sort, highlight the ways individuals link different items into headings. This activity was incredibly beneficial as it has provided us with a clear guide of how we should structure our website to best assist our clients.  By grouping items together under associated group labels, it makes it easier for the site users to find the information they require.
+
 
 
 ## Tree testing
