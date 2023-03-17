@@ -16,15 +16,15 @@ Illustrated account of your process:
 
 The below image shows two of our test group users completing the card sord on the software we were using to complete the activity.
 
-_Insert images/illustrations using `<img>` including photographic evidence of the testing sessions_.
-<img src="sp2-media/CardSortInProgress.jpg">
+
+<img src="sp2-media/CardSortInProgress.jpg" alt="Users completing the card sort exercise">
 
 ### List of the card elements
 
-- Womens tops
-- Womens Trousers
-- Mens Tops
-- Mens Trousers 
+- Women's tops
+- Women's Trousers
+- Men's Tops
+- Men's Trousers 
 - Gender Neutral 
 - Diversity and inclusion 
 - Blog
@@ -40,7 +40,7 @@ _Insert images/illustrations using `<img>` including photographic evidence of th
 - Discounts 
 - Socials 
 - Exclusive drops 
-- Home Page .
+- Home Page
 
 
 
@@ -62,7 +62,7 @@ Other common groups identified included 'local to Manchester' and 'Customer Bene
 
 ### Introduction
 
-Using the strongest correlation of data from the Card Sort, we initially created a Tree Diagram using the data as it came, without making any modifications. We did find that while some of the generated categories did make sense, there were some other questionnable choices. However to allow our users to provide feedback on the basis that we would complete multiple Tree Tests.
+Using the strongest correlation of data from the Card Sort, we initially created a Tree Diagram using the data as it came, without making any modifications. We did find that while some of the generated categories did make sense, there were some other questionable choices. However to allow our users to provide feedback on the basis that we would complete multiple Tree Tests.
 
 ### Illustration of the architecture tested
 
@@ -90,7 +90,7 @@ The two tasks we asked users to complete were:
 
 The two tasks we asked users to complete were:
 
-- Find Mens Outfit Inspirations
+- Find men's Outfit Inspirations
 - Find News
 
 ### Tree testing results
@@ -105,7 +105,7 @@ We were able to confirm that the first Tree Test did require additional work bef
 <img src="sp2-media/TreeTest1T2PieTree.png" alt="Pie tree of results following Tree Test 1 Task 2">
 
 #### Tree Test 2
-9 users participated in the second Tree Test. 78% of users were able to successfuly complete task 1. We think this is due to users not being used to seeing a "Site Map" included within the structure. So when we asked them to find a "Map of Manchester", they selected the wrong option. This highlights removing the Site Map away from the main navigation pane. The second question demonstrate the need to ensure that Tree Tests need to be carefully constructed. 56% of users failed to find the correct pages within the structure. This is as there were duplicate pages that did not go to where the user was expecting. The view withing the team is to ensure that the next iteration of the architecture removes the ambiguity to make it easier for the user.
+9 users participated in the second Tree Test. 78% of users were able to successfully complete task 1. We think this is due to users not being used to seeing a "Site Map" included within the structure. So when we asked them to find a "Map of Manchester", they selected the wrong option. This highlights removing the Site Map away from the main navigation pane. The second question demonstrate the need to ensure that Tree Tests need to be carefully constructed. 56% of users failed to find the correct pages within the structure. This is as there were duplicate pages that did not go to where the user was expecting. The view withing the team is to ensure that the next iteration of the architecture removes the ambiguity to make it easier for the user.
 
 ##### Task 1 - Find the Map of Manchester
 <img src="sp2-media/TreeTest2T1PieTree.png" alt="Pie tree of results following Tree Test 2 Task 1">
@@ -114,9 +114,9 @@ We were able to confirm that the first Tree Test did require additional work bef
 <img src="sp2-media/TreeTest2T2PieTree.png" alt="Pie tree of results following Tree Test 2 Task 2">
 
 #### Tree Test 3
-Only 6 users interacted with the final Tree Test. The first question they were asked was to find "Mens Outfit Inspirations." 4 of the users was able to find the page correctly, however one of the users did go to the right category, but then moved to the "Gender Neutral" section. This highlights that we could include all Mens and Womens inspiration suggestions together as well. As there was no imagery attached to the links, it may have helped users identify the right area. The second question asked users to find the "News" section. 5 users managed to find this section correctly.
+Only 6 users interacted with the final Tree Test. The first question they were asked was to find " Outfit Inspirations." 4 of the users was able to find the page correctly, however one of the users did go to the right category, but then moved to the "Gender Neutral" section. This highlights that we could include all men's and Women's inspiration suggestions together as well. As there was no imagery attached to the links, it may have helped users identify the right area. The second question asked users to find the "News" section. 5 users managed to find this section correctly.
 
-##### Task 1 - Find Mens Outfit Inspirations
+##### Task 1 - Find  Outfit Inspirations
 <img src="sp2-media/TreeTest3T1PieTree.png" alt="Pie tree of results following Tree Test 3 Task 1">
 
 ##### Task 2 - Find News
