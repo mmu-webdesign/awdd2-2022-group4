@@ -49,7 +49,7 @@ My inspiration for this moodboard is related to what is going on in Manchester n
 
 <img src="sp3-media/Groupmoodboard.png" alt="Team Member One" width="1000">
 
-### Name of team member
-Explain how you combined your influences and inspirations to create a group vision through this moodboard.
+### Team mood board final decisions 
+
 
 ---
