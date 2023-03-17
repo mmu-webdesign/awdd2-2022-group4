@@ -6,11 +6,13 @@
 
 ### Introduction
 
-Card Sorting is a technique used categorising and understanding information. In order to build a fully functional and efficient website, we decided to use this approach to plan what would help create an intuitive and fluid user experience. We followed the Open Card Sort method, which allowed us to sort the cards into categories that made sense to us and gave us he flexibility to name them ourselves.
+Card Sorting is a technique used categorising and understanding information. It is a relaible technique which allows us to further enhance the designing process. 
 
-In order to do this, we listed a few ideas individually which we took note of on 'Optimal Workshop' and then all took turns creating categories. Once completed, we compared these to find common trends and differences, which will be further used for categorisation.
+In order to build a fully functional and efficient website, we decided to use the Open Card sort approach to plan what would help create an intuitive and fluid user experience. The Open Card Sort method, consisted of sorting a number of cards into categories that made sense to our tester group. This enabled us to understand how clients would intuitivley us our website and how they would search for infomration. The open card method also allowed our tester group the flexibility to name each catagory. This approach allowed us to explore numerous catagory options and due to our tester group being Manchester natives, we were able to explore catagory names that resinated with the Manchester culture.
 
-Illustrated account of your process.
+We tasked our tester group with quickly sorting each card, which related to fashion and the Manchester Culture, into various catagories. We gave them a short time frame of 3 minutes to do this so we could understand how they would naturally navigate a website and not giving them enough time to think about the catagories too much. Once the tester group had completed their card sort, we collated the results of the workshop. We reviewed the catagories each individual had picked and explored the different trends and any common themes that repeatedly came up. This helped us to understand our target audience more and allowed us to decided the best catagoristation to use for our website. 
+
+Illustrated account of your process. The below image shows two of our test group users completing the card sord on the software we were using to complete the activity. 
 
 _Insert images/illustrations using `<img>` including photographic evidence of the testing sessions_.
 <img src="sp2-media/CardSortInProgress.jpg">
