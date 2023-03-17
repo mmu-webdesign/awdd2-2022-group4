@@ -6,9 +6,9 @@
 
 ### Introduction
 
-Card Sorting is a technique used categorising and understanding information. It is a reliable technique which allows us to further enhance the designing process. 
+Card Sorting is a technique used to categorise and understand information. It is a reliable technique which allows us to further enhance the designing process. 
 
-In order to build a fully functional and efficient website, we decided to use the Open Card sort approach to plan what would help create an intuitive and fluid user experience. The Open Card Sort method consisted of sorting a number of cards into categories that made sense to our tester group. This enabled us to understand how clients would intuitively us our website and how they would search for information. The open card method also allowed our tester group the flexibility to name each category. This approach allowed us to explore numerous category options and due to our tester group being Manchester natives, we were able to explore category names that resonated with the Manchester culture.
+In order to build a fully functional and efficient website, we decided to use the Open Card Sort Method to plan what would help create an intuitive and fluid user experience. The Open Card Sort method consisted of sorting a number of cards into categories that made sense to our tester group. This enabled us to understand how clients would intuitively us our website and how they would search for information. The open card method also allowed our tester group the flexibility to name each category. This approach allowed us to explore numerous category options and due to our tester group being Manchester natives, we were able to explore category names that resonated with the Manchester culture.
 
 We tasked our tester group with quickly sorting each card, which related to fashion and the Manchester Culture, into various categories. We gave them a short time frame of 3 minutes to do this so we could understand how they would naturally navigate a website and not giving them enough time to think about the categories too much. Once the tester group had completed their card sort, we collated the results of the workshop. We reviewed the categories each individual had picked and explored the different trends and any common themes that repeatedly came up. This helped us to understand our target audience more and allowed us to decide the best categorisation to use for our website. 
 
@@ -46,11 +46,11 @@ _Insert images/illustrations using `<img>` including photographic evidence of th
 
 ### Cart sort results
 
-After we completed the open- card sort, results showed that we had 3 similar groups, all with similar labels within. 
+After we completed the Open Card sort, results showed that we had 3 similar groups, all with similar labels within each catagory. 
 
-The first category that appeared often was 'Clothes'. There were similar categorisation labels such as 'Clothing', 'Products' and 'Clothing for all'. This allowed us to understand that having a category on our website that followed this naming convention. 
+The first category that appeared often was 'Clothes'. There were similar categorisation labels such as 'Clothing', 'Products' and 'Clothing for all' within the main catagory. This allowed us to understand that having a category on our website that followed this naming convention would be benefical and make the most sense to the client. 
 
-The second main group was 'Finding Information'. which contained group labels such as 'Home' and 'Contacting' within the main category label. This again highlighted that individuals like a separate section that includes extra information and having it as a separate category would be beneficial as it would limit confusion for our clients. 
+The second main grouping was 'Finding Information'. which contained group labels such as 'Home' and 'Contacting' within the main category label. This again highlighted that individuals like a separate section that includes extra information and having it as a separate category would be beneficial as it would limit confusion for our clients. 
 
 The third main group was 'News and Trends', which held group labels such as 'Offers' and 'up and coming'. This highlighted that we needed to include a section that specifically focused on news and events to truly provide the best service for our clients. 
 
