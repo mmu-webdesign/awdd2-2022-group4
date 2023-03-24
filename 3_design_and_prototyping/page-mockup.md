@@ -27,4 +27,7 @@ Please add at least one artefact per group member related to the exploration of 
 
 This is our final design which encourporates ideas from each member of the group which has resulted in a higher quality site. 
 
+
+<img src="sp3-prototyping/finalMockUp.PNG"> 
+
 Add a screenshot of a single high fidelity mock up of one important page of your site, including all global elements (e.g. navigation and page footer).
