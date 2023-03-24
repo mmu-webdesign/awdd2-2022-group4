@@ -12,4 +12,6 @@ Please add at least one artefact per group member related to the exploration of 
 
 ## High Fidelity mock-up
 
+This is our final design which encourporates ideas from each member of the group which has resulted in a higher quality site. 
+
 Add a screenshot of a single high fidelity mock up of one important page of your site, including all global elements (e.g. navigation and page footer).
