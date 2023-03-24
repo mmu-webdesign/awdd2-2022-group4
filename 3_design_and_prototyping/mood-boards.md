@@ -30,7 +30,7 @@ My personal influences for this mood board are catered around imagery and colour
 
 ### Lucy Barrow
 
-My Personal influences and inspirations for this mood board involve having barnding that resnoates with the the culture of Manchester. I believe it is important to incorporate Manchester icons, such as the bee, and Manchester colour schemes such as yellow and dark red. However, I am aware that we are trying to promote a product and we are a site that hosts numerous brands, each with their own unique branding. Therefore, I believe it is important to make the branding minimalist to allow for the individual local brands to shine. I noticed that this was a technique used by many big fashion brands, who pick an accent colour and a easy to read font that showcases the product itself. This is were I have drawn inspriation on my mood board, which has explored Manchester branding, common colour schemes, typography and what is the common branding trends for fashion websites. I believe the best approach for our websites branding would be to have small Manchetser specific elements whilst using an overal minimalistic theme to allow us to create a website that is easy to naviagte and looks appealing to students. 
+My Personal influences and inspirations for this mood board involve having branding that resonates with the culture of Manchester. I believe it is important to incorporate Manchester icons, such as the bee, and Manchester colour schemes such as yellow and dark red. However, I am aware that we are trying to promote a product and we are a site that hosts numerous brands, each with their own unique branding. Therefore, I believe it is important to make the branding minimalist to allow for the individual local brands to shine. I noticed that this was a technique used by many big fashion brands, who pick an accent colour and a easy to read font that showcases the product itself. This is where I have drawn inspiration on my mood board, which has explored Manchester branding, common colour schemes, typography and what is the common branding trends for fashion websites. I believe the best approach for our websites branding would be to have small Manchester specific elements whilst using an overall minimalistic theme to allow us to create a website that is easy to navigate and looks appealing to students.
 
 
 
@@ -40,16 +40,18 @@ My Personal influences and inspirations for this mood board involve having barnd
 
 <img src="sp3-media/Moodboard-Matt.png" alt="Matt Tweedy" width="1000">
 
-### Name of team member
-My inspiration for this moodboard is related to what is going on in Manchester now with the trams through the city centre. This lines up with the Manchester Bee colour scheme of black and yellow. Manchester has a number of different colour swaths, lining up with  different sports clubs. The colours are bold
+### Matt Tweedy
+My inspiration for this moodboard is related to what is going on in Manchester now with the trams through the city centre. This lines up with the Manchester Bee colour scheme of black and yellow. Manchester has a number of different colour swaths, lining up with different sports clubs. The colours are bold, and stand out.
 
 ---
 
 ## Team Moodboard
 
-<img src="sp3-media/moodboard.png" alt="Team Member One" width="1000">
+<img src="sp3-media/Groupmoodboard.png" alt="Team Member One" width="1000">
 
-### Name of team member
-Explain how you combined your influences and inspirations to create a group vision through this moodboard.
+### Team mood board final decisions 
+
+
+As a team, we decided we liked elements from each mood board. We believe a minimalist approach, similar to Bryan's mood board, was the best approach for the majority of the site. However, to make it feel like a Manchester site we are going to incorporate elements such as the bee, the colour yellow as an accent colour, and the Manchester skyline in the header of the website, so the site resonates with our target audience. Moreover, we have decided to go with Geometric Sans Serif as a font as it is easy to read, commonly used in fashion websites, and allows for the clients focus to be on the content of the site and not the style of the written words. Furthermore, we decided that our discounts section would include more colour and splashes of yellow to show that this is an exciting part of the website. We believe adding colour to this part of the site will make it more engaging for our clients and show that this is a great part of the website.
 
 ---
