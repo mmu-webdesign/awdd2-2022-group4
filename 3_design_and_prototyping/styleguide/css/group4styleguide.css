@@ -10,47 +10,47 @@
 /* use swatch 1 for your most important colour, swatch 2 for the next, and so on */
 
 .swatch-1 {
-    background: #ff9900;
+    background: #F5FF12;
 }
 
 .swatch-2 {
-    background: black;
+    background: #FAC700;
 }
 
 .swatch-3 {
-    background: grey;
+    background: #ED9E4F;
 }
 
 .swatch-4 {
-    background: orange;
+    background: #AF4222;
 }
 
 .swatch-5 {
-    background: pink;
+    background: #C30000;
 }
 
 .swatch-6 {
-    background: purple;
+    background: #291C19;
 }
 
 .swatch-7 {
-    background: blue;
+    background: #46474B;
 }
 
 
 /* TYPOGRAPHY
 /* the typography for your website */
-
+/* Geometric Sans Serif */
 
 /* delete the ones you don't need */
 
 .type-1 {
-    font-family: 'Monoton', cursive;
+    font-family: Lato, sans-serif;
     /* google font */
 }
 
 .type-2 {
-    font-family: avenir, arial, sans-serif;
+    font-family: Lora, sans-serif;
     /* example of 'web safe' font */
 }
 
@@ -71,7 +71,6 @@ a.button {
     padding: 10px 20px;
     font-weight: bold;
     text-decoration: none;
-    border: 1px solid red;
     margin-right: 10px;
     margin-bottom: 1em;
     border-radius: 0.2em;
@@ -80,17 +79,17 @@ a.button {
 
 a.button.important {
     font-size: 1.2em;
-    background: red;
-    color: white;
+    background: #F5FF12;
+    color: black;
     padding: 15px 30px;
 }
 
 a.button.normal {
-    color: red;
+    color: #C30000;
 }
 
-a.button.less {
-    color: grey;
+a.button.normal:visited {
+    color: #AF4222;
 }
 
 a.button:hover {
@@ -100,5 +99,14 @@ a.button:hover {
 
 a.button.important:hover {
     color: white;
-    background: maroon;
+    background: #FAC700;
+}
+
+a.link.less {
+    font-weight: normal;
+    color: #46474B;
+}
+
+a.link.less:hover {
+    font-weight: bold;
 }
