@@ -6,7 +6,7 @@ You should add evidence of your group’s design process here. Begin with artefa
 
 ## Group Artefacts
 
-After we initially created our designs on pen and paper, we moved to a web based platform to create a more realistic design. we were able to consider the layout and space, as well as using colours and fonts specifically mentioned in our style guide. 
+After we initially created our designs on pen and paper, we moved to a web based platform to create a more realistic design. We were able to consider the layout and space, as well as using colours and fonts specifically mentioned in our style guide. 
 
 Please add at least one artefact per group member related to the exploration of designs for your website.
 
