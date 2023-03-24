@@ -40,8 +40,8 @@ My Personal influences and inspirations for this mood board involve having brand
 
 <img src="sp3-media/Moodboard-Matt.png" alt="Matt Tweedy" width="1000">
 
-### Name of team member
-My inspiration for this moodboard is related to what is going on in Manchester now with the trams through the city centre. This lines up with the Manchester Bee colour scheme of black and yellow. Manchester has a number of different colour swaths, lining up with  different sports clubs. The colours are bold
+### Matt Tweedy
+My inspiration for this moodboard is related to what is going on in Manchester now with the trams through the city centre. This lines up with the Manchester Bee colour scheme of black and yellow. Manchester has a number of different colour swaths, lining up with different sports clubs. The colours are bold, and stand out.
 
 ---
 
