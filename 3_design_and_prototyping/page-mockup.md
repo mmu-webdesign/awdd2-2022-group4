@@ -10,6 +10,8 @@ After we initially created our designs on pen and paper, we moved to a web based
 
 Please add at least one artefact per group member related to the exploration of designs for your website.
 
+<img src="sp3-prototyping/Webpage Mockup-Bryan.PNG"> 
+
 ## High Fidelity mock-up
 
 This is our final design which encourporates ideas from each member of the group which has resulted in a higher quality site. 
