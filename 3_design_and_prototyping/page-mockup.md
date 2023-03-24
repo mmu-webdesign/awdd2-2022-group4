@@ -18,6 +18,11 @@ Please add at least one artefact per group member related to the exploration of 
 
 <img src="sp3-prototyping/mobile-design-adele.png"> 
 
+
+<img src="sp3-prototyping/MockUp2- Bryan.PNG"> 
+
+
+
 ## High Fidelity mock-up
 
 This is our final design which encourporates ideas from each member of the group which has resulted in a higher quality site. 
