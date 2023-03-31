@@ -10,25 +10,25 @@ After we initially created our designs on pen and paper, we moved to a web based
 
 Please add at least one artefact per group member related to the exploration of designs for your website.
 
-Mock up design 1: 
+Mock up design 1 (Bryan Ebune): 
 
 <img src="sp3-prototyping/Webpage Mockup-Bryan.PNG"> 
 
 
-Mock up design 2: 
+Mock up design 2 (Lucy Barrow): 
 
 
 <img src="sp3-prototyping/Slide1.PNG"> 
 
 
 
-Mock up design 3: 
+Mock up design 3 (Adele Le Moignan): 
 
 
 <img src="sp3-prototyping/mobile-design-adele.png"> 
 
 
-Mock up design 4: 
+Mock up design 4 (Matt Tweedy): 
 
 <img src="sp3-prototyping/MockUp2- Bryan.PNG"> 
 
