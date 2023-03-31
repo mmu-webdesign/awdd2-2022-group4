@@ -6,25 +6,25 @@ The following designs are Low-fi designs that we created on pen and paper. We de
 
 Pen and Paper design 1 (Bryan Ebune): 
 
-<img src="sp3-prototyping/pen and paper- Bryan.jpeg"> 
+<img src="sp3-media/pen and paper- Bryan.jpeg"> 
 
 
 Pen and Paper design 2 (Lucy Barrow): 
 
 
-<img src="sp3-prototyping/pen and paper- Lucy.jpeg"> 
+<img src="sp3-media/pen and paper- Lucy.jpeg"> 
 
 
 
 Pen and Paper design 3 (Adele Le Moignan): 
 
 
-<img src="sp3-prototyping/pen and paper- Adele.jpeg"> 
+<img src="sp3-media/pen and paper- Adele.jpeg"> 
 
 
 Pen and Paper design 4 (Matt Tweedy): 
 
-<img src="sp3-prototyping/pen and paper- Matt.jpeg"> 
+<img src="sp3-media/pen and paper- Matt.jpeg"> 
 
 You should add evidence of your group’s design process here. Begin with artefacts created by the whole team, then the high fidelity mockup.
 
