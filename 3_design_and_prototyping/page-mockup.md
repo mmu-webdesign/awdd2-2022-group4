@@ -6,7 +6,7 @@ The following designs are Low-fi designs that we created on pen and paper. We de
 
 Pen and Paper design 1 (Bryan Ebune): 
 
-<img src="sp3-media/pen and paper- Bryan.jpeg"> 
+<img src="sp3-media/pen and paper- Bryan.jpeg" width "500"> 
 
 
 Pen and Paper design 2 (Lucy Barrow): 
