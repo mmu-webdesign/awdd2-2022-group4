@@ -2,13 +2,13 @@
 
 As a team we each created a page design independently , and when finished we discussed our ideas with one another. By borrowing each others ideas, we were able to come up with our final design which we believe to be the best solution. 
 
+The following designs are Low-fi designs that we created on pen and paper. We designed them as if they were on a mobile first and included colour ideas, layout, typography, space, form and considered usability and accessibility. 
+
 You should add evidence of your group’s design process here. Begin with artefacts created by the whole team, then the high fidelity mockup.
 
 ## Group Artefacts
 
 After we initially created our designs on pen and paper, we moved to a web based platform to create a more realistic design. We were able to consider the layout and space, as well as using colours and fonts specifically mentioned in our style guide. 
-
-Please add at least one artefact per group member related to the exploration of designs for your website.
 
 Mock up design 1 (Bryan Ebune): 
 
@@ -41,4 +41,3 @@ This is our final design which encourporates ideas from each member of the group
 
 <img src="sp3-prototyping/finalMockUp.png"> 
 
-Add a screenshot of a single high fidelity mock up of one important page of your site, including all global elements (e.g. navigation and page footer).
