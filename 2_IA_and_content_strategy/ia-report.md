@@ -56,13 +56,15 @@ The third main group was 'News and Trends', which held group labels such as 'Off
 
 Other common groups identified included 'local to Manchester' and 'Customer Benefits'. The results, from the card sort, highlight the ways individuals link different items into headings. This activity was incredibly beneficial as it has provided us with a clear guide of how we should structure our website to best assist our clients.  By grouping items together under associated group labels, it makes it easier for the site users to find the information they require.
 
-
+To support the Card Sort process, the site used was [Optimal Workshop](https://www.optimalworkshop.com/). This site provides a tool to create a Card Sort
 
 ## Tree testing
 
 ### Introduction
 
 Using the strongest correlation of data from the Card Sort, we initially created a Tree Diagram using the data as it came, without making any modifications. We did find that while some of the generated categories did make sense, there were some other questionable choices. However to allow our users to provide feedback on the basis that we would complete multiple Tree Tests.
+
+To support the Tree Testing process, the site used was [Optimal Workshop](https://www.optimalworkshop.com/). This site provides a tool to create a Tree Test
 
 ### Illustration of the architecture tested
 
