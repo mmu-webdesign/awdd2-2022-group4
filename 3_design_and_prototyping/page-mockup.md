@@ -3,6 +3,27 @@
 As a team we each created a page design independently , and when finished we discussed our ideas with one another. By borrowing each others ideas, we were able to come up with our final design which we believe to be the best solution. 
 
 The following designs are Low-fi designs that we created on pen and paper. We designed them as if they were on a mobile first and included colour ideas, layout, typography, space, form and considered usability and accessibility. 
+Pen and Paper design 1 (Bryan Ebune): 
+
+<img src="sp3-prototyping/pen and paper- Bryan.jpeg"> 
+
+
+Pen and Paper design 2 (Lucy Barrow): 
+
+
+<img src="sp3-prototyping/pen and paper- Lucy.jpeg"> 
+
+
+
+Pen and Paper design 3 (Adele Le Moignan): 
+
+
+<img src="sp3-prototyping/pen and paper- Adele.jpeg"> 
+
+
+Pen and Paper design 4 (Matt Tweedy): 
+
+<img src="sp3-prototyping/pen and paper- Matt.jpeg"> 
 
 You should add evidence of your group’s design process here. Begin with artefacts created by the whole team, then the high fidelity mockup.
 
