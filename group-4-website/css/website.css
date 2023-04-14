@@ -1,5 +1,9 @@
 * { border:1px solid red; }
 
+/* Standard Pages */
+
+/* Header */
+
 /* Navbar container */
 .navbar {
   overflow: hidden;
@@ -21,6 +25,7 @@
 .dropdown {
   float: left;
   overflow: hidden;
+  width: 19%;
 }
 
 /* Dropdown button */
@@ -95,6 +100,48 @@
 }
 
 
+/* Footer */
+
+.page-footer {
+    margin: 10px;
+    background-color: #A0A0A0;
+}
+
+.footer-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.footer-col {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+}
+.footer-col li {
+    list-style-type: none;
+}
+
+.sub-footer-content {
+    text-align: center;
+}
+
+
+
+
+
+
+/* manchester */
+
+/* Map Details */
+.google-map {
+    height: 400px;
+    width: 100%;
+}
+
+/* Contact Us */
 
 /* FAQ */
 
