@@ -34,14 +34,28 @@ Scan your completed notes as a single pdf, add to the sp4-media folder and link 
 
 ## Exit survey
 
-> Download -[Completed exit survey](sp4-media/exit-survey.pdf).
+Below are the results from our exit survey. We conducted this survey after userabilty testing and consolidated the results into the below tables. 
 
-Scan your completed survey as a single pdf, add to the sp4-media folder and link above.
+<img src="sp4-media/ExitSurvey1.png" alt="Exit survey results" width="1000">
+
+<img src="sp4-media/ExitSurvey2.png" alt="Exit survey results" width="1000">
+
+
+
 
 ## Consent form(s)
 
-> Download -[Completed consent form(s)](sp4-media/exit-survey.pdf).
+Below are our signed consent forms. These can also be found in SP4 Media folder. These where signed prior to conducting user testing. 
 
-Scan your completed consent form(s) as a single pdf, add to the sp4-media folder and link above.
+## External Consent form - 
+
+<img src="sp4-media/BBSigned.PNG" alt="External Consent Form" width="1000">
+
+
+## Internal Consent Form - 
+
+<img src="sp4-media/GGSigned.PNG" alt="Internal Consent Form" width="1000">
+
+
 
 ---

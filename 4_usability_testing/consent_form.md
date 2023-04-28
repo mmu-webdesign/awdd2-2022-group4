@@ -2,19 +2,12 @@
 
 ## Usability testing
 
-The team is carrying out usability testing on our coursework as part a web development assignment. Your co-operation is appreciated, as the exercise is invalid without user input.
 
-Team ID: 
 
-Please read the following. If you give your consent, please sign below.
+## Our Consent form 
 
-1. I confirm that I am giving consent to being recorded for the student usability testing session.
-2. I confirm that I have read and understand the information above.
-3. I consent to the use of my images and words for said project.
-4. I understand that my participation is voluntary and that I am free to withdraw at any time.
+Below is a copy of our teams consent form. We chose to personalise some of the questions so particpents were aware of the process and that they may be asked to give further elaboration on any statements made during usability testing. The form will be given to each user particpent prior to conducting userability testing to confirm we have their full consent. 
 
-Name:
 
-Date:
+<img src="sp4-media/ConsentForm.PNG" alt="External Consent Form" width="1000">
 
-Signature of participant:
