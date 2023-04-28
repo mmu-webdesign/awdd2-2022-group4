@@ -29,6 +29,15 @@ Create an updated version of the page design and add this to the report.
 
 <img src="sp4-media/Userextratesting.jpg" alt="Futher testing photo" width="1000">
 
+Below are further responses we collected after improving some of the aspects that were highlighted to us in the user testing, such as the addition of a discussion forum and the addition of links to the footer. These surveys were filled out by the individuals who tested our site origionally. 
+
+## Further Testing: Becky Barrow
+
+<img src="sp4-media/FurtherTesting1.png" alt="further testing Becky Barrow" width="1000">
+
+## Further Testing: George Scott
+
+<img src="sp4-media/FurtherTesting2.png" alt="further testing George Scott" width="1000">
 
 
 ## Exit survey
