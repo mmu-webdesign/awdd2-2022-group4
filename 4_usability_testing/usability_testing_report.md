@@ -30,6 +30,10 @@ Any further testing should be evidenced (photographs, notes and actions). Tutors
 
 > Download -[Mini User Journey](sp4-media/mini-user-journey.pdf) forms.
 
+## Image of Further testing conducted with the same individual who interacted with our inital user testing 
+
+<img src="sp4-media/Userextratesting.jpg" alt="Futher testing photo" width="1000">
+
 Scan your completed notes as a single pdf, add to the sp4-media folder and link above. -->
 
 ## Exit survey
