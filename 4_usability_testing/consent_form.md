@@ -20,4 +20,4 @@ Date:
 Signature of participant:
 
 
-<img src="sp4-media/Consent form1 - Signed by George Scott" alt="Lucy Barrow" width="1000">
+<img src="sp4-media/BBConsentForm.PNG" alt="External Consent Form" width="1000">
