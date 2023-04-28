@@ -25,7 +25,7 @@ Create an updated version of the page design and add this to the report.
 ## Results of further testing
 
 
-## Image of Further testing conducted with the same individual who interacted with our inital user testing 
+Image of Further testing conducted with the same individual who interacted with our inital user testing 
 
 <img src="sp4-media/Userextratesting.jpg" alt="Futher testing photo" width="1000">
 
