@@ -34,9 +34,11 @@ Scan your completed notes as a single pdf, add to the sp4-media folder and link 
 
 ## Exit survey
 
-> Download -[Completed exit survey](sp4-media/post exit survey- group 4.pdf).
+Below are the results from our exit survey. We conducted this survey after userabilty testing and consolidated the results into the below tables. 
 
+<img src="sp4-media/ExitSurvey1.PNG" alt="Exit survey results" width="1000">
 
+<img src="sp4-media/ExitSurvey2.PNG" alt="Exit survey results" width="1000">
 
 
 Scan your completed survey as a single pdf, add to the sp4-media folder and link above.
