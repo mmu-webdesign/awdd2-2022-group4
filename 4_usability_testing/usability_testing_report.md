@@ -56,6 +56,6 @@ Below are our signed consent forms. These can also be found in SP4 Media folder.
 
 <img src="sp4-media/GGSigned.PNG" alt="Internal Consent Form" width="1000">
 
-Scan your completed consent form(s) as a single pdf, add to the sp4-media folder and link above.
+
 
 ---
