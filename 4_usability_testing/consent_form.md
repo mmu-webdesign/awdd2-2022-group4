@@ -18,3 +18,6 @@ Name:
 Date:
 
 Signature of participant:
+
+
+<img src="sp4-media/Consent form1 - Signed by George Scott" alt="Lucy Barrow" width="1000">
