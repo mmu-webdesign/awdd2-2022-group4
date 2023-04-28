@@ -21,13 +21,14 @@ html {
 
 body {
     text-align: center;
-    font-family: sans-serif;
+    font-family: Lora, sans-serif;
     font-size: 100%;
     line-height: 1;
     display: flex;
     flex-direction: column;
     justify-content: center;
     max-width: 1000px;
+
 }
 
 h1,
@@ -73,7 +74,7 @@ img {
 .navbar {
   overflow: hidden;
   background-color: #333;
-  font-family: Arial;
+  font-family: Lato, sans-serif;
 }
 
 /* Links inside the navbar */
