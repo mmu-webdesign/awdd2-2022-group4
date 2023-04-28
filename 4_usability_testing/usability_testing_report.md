@@ -41,7 +41,7 @@ Below are the results from our exit survey. We conducted this survey after usera
 <img src="sp4-media/ExitSurvey2.PNG" alt="Exit survey results" width="1000">
 
 
-Scan your completed survey as a single pdf, add to the sp4-media folder and link above.
+
 
 ## Consent form(s)
 
