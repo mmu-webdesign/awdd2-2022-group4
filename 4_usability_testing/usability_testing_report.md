@@ -36,11 +36,18 @@ Scan your completed notes as a single pdf, add to the sp4-media folder and link 
 
 > Download -[Completed exit survey](sp4-media/post exit survey- group 4.pdf).
 
+
+
+
 Scan your completed survey as a single pdf, add to the sp4-media folder and link above.
 
 ## Consent form(s)
 
 > Download -[Completed consent form(s)](sp4-media/exit-survey.pdf).
+
+<img src="sp4-media/BBSigned.PNG" alt="External Consent Form" width="1000">
+
+<img src="sp4-media/GGSigned.PNG" alt="Internal Consent Form" width="1000">
 
 Scan your completed consent form(s) as a single pdf, add to the sp4-media folder and link above.
 
