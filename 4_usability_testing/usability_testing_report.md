@@ -45,12 +45,12 @@ Scan your completed survey as a single pdf, add to the sp4-media folder and link
 
 Below are our signed consent forms. These can also be found in SP4 Media folder. These where signed prior to conducting user testing. 
 
-## External Consent form 
+## External Consent form - 
 
 <img src="sp4-media/BBSigned.PNG" alt="External Consent Form" width="1000">
 
 
-## Internal Consent Form 
+## Internal Consent Form - 
 
 <img src="sp4-media/GGSigned.PNG" alt="Internal Consent Form" width="1000">
 
