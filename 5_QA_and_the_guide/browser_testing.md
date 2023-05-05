@@ -41,11 +41,17 @@ Similar to the web browsers, the majority of site content for the webpage was bu
 After adjusting the CSS for the webpage and adding some imagery, the home page content is now displayed evernly across the phone screen and browser. 
 
 ### Android
-<img src="sp5-media/Android-testing-image.png" alt="" width="">
+<img src="sp5-media/Android-testing-image.jpg" alt="" width="">
 
 Much like all of the other browsers and devices, the site content was presented at the top of the page and was bunched up. By fixing the CSS for the webpage, this should solve all of these issues. 
 
 ### Notes
+After adjusting the CSS for the webpage and adding some imagery, the home page content is now displayed evernly across the phone screen and browser. 
+
+### Android Updated
+<img src="sp5-media/" alt="" width="">
+
+### Notes 
 After adjusting the CSS for the webpage and adding some imagery, the home page content is now displayed evernly across the phone screen and browser. 
 
 ---
