@@ -15,7 +15,7 @@ The main issues that arose after testing our webpage in google chrome was that t
 ### Google Chrome Fix 
 We revisited the CSS on this site to try and improved it for the browser of google chrome. We managed to add pictures to the page to make it more engaging and interactive for users of the site. Furthermore, after fixing the code the page now displays perfectly on a computer screen, and fills the page rather than being bunched in the top left corner of the screen. This makes it much more usable. 
 
-<img src="sp5-media/" alt="" width="1000">
+<img src="sp5-media/"browsertest-chrome alt="" width="1000">
 
 ### Microsoft Edge 
 <img src="sp5-media/microsoftedge1.png" alt="" width="1000">
