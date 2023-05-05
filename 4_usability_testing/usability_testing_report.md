@@ -19,13 +19,12 @@ We selected two candidates that would find this site useful and watched as they 
 
 ### Findings
 
-(500 words)
 
-The findings from the useability testing highlighted that those tested enjoyed the content, colours and font and found the pathways to infomration logical. They made comments on the content within the webiste and expressed the need for more detail under some of the images used. They also requested that the logo be more prominent so they could easily identify the brand whilst accessing the site. 
+The findings from the useability testing highlighted that those tested enjoyed the content, colours and font and found the content enjoyable and helpful. They made comments on the accessability to links and the file paths and asked for these to be made more easily avaible. Furthermore, they requested improvements in the discussion forum, as they enjoyed the idea but want topics and information posted in this forum to be more visable. This infomration was captured in detail in our exit survey and further recommendations and is something we are activly looking to improve. The discussion forum is a improtant part of our site as it provides a space for individuals to talk with one another and express themselves creativly through fashion and the median of discussion.  
 
 Discuss the key issues that have been identified (positive and negative). This must closely relate to your observations (in your notes) and any exit surveys.
 
-4. What did you find?
+
 
 ## Actions
 
