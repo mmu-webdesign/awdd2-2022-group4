@@ -1,15 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-	<link rel="stylesheet" type="text/css" href="../../../../css/website.css">
+  <link href="css/website.css" rel="stylesheet">
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Document</title>
+	<title>Home Page</title>
 </head>
+
 <body>
 
 <div class="navbar">
-  <a href="/index.html" class="dropdown">Home</a>
+	<div class="dropdown">
+		<button class="dropbtn"></button>
+  <a href="#home">Home</a>
+		
+	</div>
   <div class="dropdown">
     <button class="dropbtn">Clothes</button>
     <div class="dropdown-content">
@@ -95,31 +101,30 @@
   </div>
 </div>
 
-<section class="Content">
-	<div class="content-container">
-		<img src="../img/mTrousers1.png" alt="Mens Trousers at Retro Rehab">
-		<p>Check out these classic black Trousers at Retro Rehab in the Northern Quarter today!</p>
-		<p class="content-offer">Was £45, but with our exclusive discount code <strong>BUZZBUZZBUZZ</strong> get it for £40</p>
-		<h3>Product Description</h3>
-		<p>Black Trousers with a loose fit. Straight leg cut. Denim material. </p>
-		<p>Sizes in store XS - XL</p>
+<section>
+	<div class="banner">
+		<h3>Exlusive Offer - use <strong>BUZZ20</strong> in-store at Vintage 55 for 20% off</h3>
 	</div>
-	<div class="content-container">
-		<img src="../img/mTrousers2.png" alt="Mens Jeans at American Graffiti">
-		<p>Check out these fabulous denim jeans stocked at American Graffiti in the Northern Quarter today!</p>
-		<p class="content-offer">Was £50, but with our exclusive discount code <strong>BUZZAG</strong> get it for £45</p>
-		<h3>Product Description</h3>
-		<p>Light blue washed Denim jeans. Loose fit, straight cut.</p>
-		<p>Sizes in store XXS - XXL</p>
+<<<<<<< HEAD
+	<section class="manchesterVibes">
+=======
+	<div class="manchesterVibes">
+>>>>>>> ae84e3d9fbac6e67e433fb1461abb3a1d83cc9a9
+		<h3>Manchester Vibes</h3>
+		<div class="image-container">
+			<img src="img/manchesterVibes1.png">
+		</div>
+		<div class="image-container">
+			<img src="img/manchesterVibes2.png">
+		</div>
+		<div class="image-container">
+			<img src="img/manchesterVibes3.png">
+		</div>
+<<<<<<< HEAD
+	</section>
+=======
 	</div>
-	<div class="content-container">
-		<img src="../img/mTrousers3.png" alt="Mens Trousers at Retro Rehab">
-		<p>Check out these relaxed black jogging bottoms at Retro Rehab in the Northern Quarter today!</p>
-		<p class="content-offer">Was £45, but with our exclusive discount code <strong>BUZZBUZZBUZZ</strong> get it for £40</p>
-		<h3>Product Description</h3>
-		<p>Black jogging bottoms with a loose fit. Comfortable material with a breathable element.</p>
-		<p>Sizes in store XS - XL</p>
-	</div>
+>>>>>>> ae84e3d9fbac6e67e433fb1461abb3a1d83cc9a9
 </section>
 
 
@@ -141,9 +146,9 @@
     		<div class="footer-col">
     			<ul>
   	  				<li><h3>Contact Us</h3></li>
-  	  				<li><a href="/Pages/ContactUs/FeedbackForm.html"><button class="footerbtn">Feedback Form</button></a></li>
-  	  				<li><a href="/Pages/ContactUs/AboutUs.html"><button class="footerbtn">About Us</button></a></li>
-  	  				<li><a href="/Pages/ContactUs/ContactUs.html"><button class="footerbtn">Contact Us</button></a></li>
+  	  				<li><a href="Pages/ContactUs/FeedbackForm.html"><button class="footerbtn">Feedback Form</button></a></li>
+  	  				<li><a href="Pages/ContactUs/AboutUs.html"><button class="footerbtn">About Us</button></a></li>
+  	  				<li><a href="Pages/ContactUs/ContactUs.html"><button class="footerbtn">Contact Us</button></a></li>
     			</ul>
 			</div>
 			
@@ -161,4 +166,5 @@
 
 	</footer>
 </section>
+</body>
 </html>
