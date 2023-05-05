@@ -35,6 +35,7 @@ Provide a description of any issues. If the issue has to be corrected add anothe
 <img src="sp5-media/RussianScreenshot.JPG" alt="" width="1000">
 
 ### Notes
-Provide a description of any issues. If the issue has to be corrected add another screenshot to show the fix.
+
+The words appear to fit nicely upon the page and seem to replicate the same feel as the original English text. Individual words underneath each image have not been split and the readability remains good. There is no writing on images that cannot be translated, so individuals translating this into other languages will not be prohibited. The only issue to note is that some English slang words have not been translated, however these tend to be the discount codes that individuals would use in store, therefore a Russian version of the word Buzz would not require a translation. 
 
 ---
