@@ -22,9 +22,8 @@ Translation into German has caused no major issues regarding presentation of our
 <img src="sp5-media/ChineseScreenshot.JPG" alt="" width="1000">
 
 ### Notes
-Provide a description of any issues. If the issue has to be corrected add another screenshot to show the fix.
+Translation into Chinese caused no major issues in terms of presentation of words on the webpage, with words being split well across two lines if necessary. The only issues in trandlation came for the Name for Manchester Met, 'Vintage 55' and the discount codes on the site. However, these are not major issues as the Chinese language may simply not have a translation for these words, and the discount codes required will have to be inputted in English for them to be usable. 
 
----
 
 ## Language Three- Russian
 
