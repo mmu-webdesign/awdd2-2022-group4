@@ -6,12 +6,16 @@ Write an introduction to your report.
 
 1. What did you do?
    
-We conducted our inital useability testing by asking an internal and external particpant to review the site. Prior to conducting the testing we got both parties to sign individual consent forms to ensure we had their permission to progress with useability testing. We then asked them to explore the site, like they would if they were to browse any other website. We watched and made notes of any comments that were made and of the paths to find certain information they took. We also set the users with small tasks such as, find mens clothing, find the about us information and find girls clothing. 
+We conducted our inital useability testing by asking an internal and external particpant to review the site. Prior to conducting the testing we got both parties to sign individual consent forms to ensure we had their permission to progress with useability testing. We then asked them to explore the site, like they would if they were to browse any other website. We watched and made notes of any comments that were made and of the paths to find certain information they took. We also set the users with small tasks such as, find mens clothing, find the about us information and find girls clothing. This allowed us to understand the exact steps a user would take and allowed us to understand whether we have set the paths up to make the most sense for users. By allowing users free reign over the site and also setting specific tasks they needed to complete, we were able to gain valuable data that we can use to make ammendments to are orgianl site. 
+
+2. Why did you do it?
+
+We conducted useability testing to ensure users, both external and internal, could understand and use the site. It also highlighted any issues or bugs we had with the site, which we were able to fix prior to submitting the portfolio work. The valuable insight we gained from conducting this task allowed us to produce a better product that met the needs of our users. 
 
 
+3. How did you do it?
 
-3. Why did you do it?
-4. How did you do it?
+
 
 ### Findings
 
