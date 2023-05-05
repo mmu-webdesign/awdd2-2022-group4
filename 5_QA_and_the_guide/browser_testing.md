@@ -53,7 +53,7 @@ Much like all of the other browsers and devices, the site content was presented 
 After adjusting the CSS for the webpage and adding some imagery, the home page content is now displayed evernly across the phone screen and browser. 
 
 ### Android Fix
-<img src="sp5-media/Androidfix.jpg" alt="" width="">
+<img src="sp5-media/Androidfix.png" alt="" width="">
 
 After adjusting the CSS for the webpage and adding some imagery, the home page content is now displayed evernly across the phone screen and browser. 
 
