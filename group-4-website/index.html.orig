@@ -1,16 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-	<link rel="stylesheet" type="text/css" href="../../css/website.css">
+  <link href="css/website.css" rel="stylesheet">
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>News</title>
+	<title>Home Page</title>
 </head>
+
 <body>
 
 <div class="navbar">
 	<div class="dropdown">
-		 <a href="#home" class="dropbtn">Home</a>
+		<button class="dropbtn"></button>
+  <a href="#home">Home</a>
+		
 	</div>
   <div class="dropdown">
     <button class="dropbtn">Clothes</button>
@@ -97,23 +101,30 @@
   </div>
 </div>
 
-<section class="news">
-	<div class="news-container">
-		<h2>
-			<a href="https://www.manchestereveningnews.co.uk/whats-on/shopping/primark-shoppers-snap-up-timeless-26584581">Primark shoppers snap up 'timeless sandals that are near-identical to £95 Birkenstocks as Summer approaches'</a>
-		</h2>
-		<p>
-			Birkenstock are a very popular and stylish brand of shoes that often come with a high price tag. Primark are an affordable high street brand which are offering replicas of these stylish sandals at less than half the price. Get there quick before all of the sandals are gone!
-		</p>
+<section>
+	<div class="banner">
+		<h3>Exlusive Offer - use <strong>BUZZ20</strong> in-store at Vintage 55 for 20% off</h3>
 	</div>
-	<div class="news-container">
-		<h2>
-			<a href="https://fashioninstitute.mmu.ac.uk/news/item/?id=15787">FASHION AND TEXTILE WASTE IN GREATER MANCHESTER TO BE REDUCED BY NEW TASKFORCE</a>
-		</h2>
-		<p>
-			A new taskforce based in Manchester are being formed to help reduce the environmental impacts of fashion and textile waste. In the UK, fashion waste is the 4th biggest polluter, with more than 921,000 tonnes of clothes ending up in landfill on a yearly basis. Recycling and sorting practises could help to reduce this significantly. 
-		</p>
-	</div>	
+<<<<<<< HEAD
+	<section class="manchesterVibes">
+=======
+	<div class="manchesterVibes">
+>>>>>>> ae84e3d9fbac6e67e433fb1461abb3a1d83cc9a9
+		<h3>Manchester Vibes</h3>
+		<div class="image-container">
+			<img src="img/manchesterVibes1.png">
+		</div>
+		<div class="image-container">
+			<img src="img/manchesterVibes2.png">
+		</div>
+		<div class="image-container">
+			<img src="img/manchesterVibes3.png">
+		</div>
+<<<<<<< HEAD
+	</section>
+=======
+	</div>
+>>>>>>> ae84e3d9fbac6e67e433fb1461abb3a1d83cc9a9
 </section>
 
 
@@ -155,4 +166,5 @@
 
 	</footer>
 </section>
+</body>
 </html>
