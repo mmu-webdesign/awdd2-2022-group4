@@ -4,9 +4,9 @@
 
 ## Desktop
 
-### Mac OS - Safari
+### Google Chrome
 
-<img src="sp5-media/macos-safari.jpg" alt="" width="1000">
+<img src="sp5-media/browsertest-chrome1.png" alt="" width="1000">
 
 ### Notes
 
