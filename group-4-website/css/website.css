@@ -28,6 +28,7 @@ body {
     flex-direction: column;
     justify-content: center;
     max-width: 1000px;
+    background-color: gray;
 }
 
 h1,
