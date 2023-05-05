@@ -15,7 +15,7 @@ The main issues that arose after testing our webpage in google chrome was that t
 ### Google Chrome Fix 
 We revisited the CSS on this site to try and improved it for the browser of google chrome. We managed to add pictures to the page to make it more engaging and interactive for users of the site. Furthermore, after fixing the code the page now displays perfectly on a computer screen, and fills the page rather than being bunched in the top left corner of the screen. This makes it much more usable. 
 
-<img src="sp5-media/"browsertest-chrome2 alt="" width="1000">
+<img src="sp5-media/"browsertest-chrome2.png" alt="" width="1000">
 
 ### Microsoft Edge 
 <img src="sp5-media/microsoftedge1.png" alt="" width="1000">
@@ -26,7 +26,7 @@ Similary to google chrome, the main home page of our site is presented in the to
 ### Microsoft Edge Fix
 We revisited the CSS on this site to try and improved it for the browser of Microsoft Edge. We managed to add pictures to the page to make it more engaging and interactive for users of the site. Furthermore, after fixing the code the page now displays perfectly on a computer screen, and fills the page rather than being bunched in the top left corner of the screen. This makes it much more usable. 
 
-<img src="sp5-media/microsoftedge2" alt="" width="1000">
+<img src="sp5-media/microsoftedge2.png" alt="" width="1000">
 
 ---
 
@@ -40,7 +40,7 @@ We revisited the CSS on this site to try and improved it for the browser of Micr
 Similar to the web browsers, the majority of site content for the webpage was bunched up at the top of the page for apple. This is clearly a consistent issue in the CSS of the site. 
 
 ### Mac IOS- Safari Fix 
-<img src="sp5-media/HomePage1" alt="" width="">
+<img src="sp5-media/HomePage1.png" alt="" width="">
 
 After adjusting the CSS for the webpage and adding some imagery, the home page content is now displayed evernly across the phone screen and browser. 
 
@@ -53,7 +53,7 @@ Much like all of the other browsers and devices, the site content was presented 
 After adjusting the CSS for the webpage and adding some imagery, the home page content is now displayed evernly across the phone screen and browser. 
 
 ### Android Fix
-<img src="sp5-media/" alt="" width="">
+<img src="sp5-media/Androidfix.jpg" alt="" width="">
 
 After adjusting the CSS for the webpage and adding some imagery, the home page content is now displayed evernly across the phone screen and browser. 
 
