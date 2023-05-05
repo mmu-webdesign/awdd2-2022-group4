@@ -15,11 +15,13 @@ We conducted useability testing to ensure users, both external and internal, cou
 
 3. How did you do it?
 
-
+We selected two candidates that would find this site useful and watched as they interacted with the site. We made a note of any comments they had, such as on the font or the colours used. We then set them specific tasks to complete and watched how they interacted with the site using their own logic. This helped us to understand whether are paths were logical or needed ammending. We then used the findings to make ammendments to are site before conducting further useability testing to ensure are site was the best it could be. 
 
 ### Findings
 
 (500 words)
+
+The findings from the useability testing highlighted that those tested enjoyed the content, colours and font and found the pathways to infomration logical. They made comments on the content within the webiste and expressed the need for more detail under some of the images used. They also requested that the logo be more prominent so they could easily identify the brand whilst accessing the site. 
 
 Discuss the key issues that have been identified (positive and negative). This must closely relate to your observations (in your notes) and any exit surveys.
 
