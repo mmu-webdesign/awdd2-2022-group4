@@ -2,7 +2,7 @@
 
 <!-- edit as required -->
 
-## Language One
+## Language One- German 
 
 <img src="sp5-media/macos-safari.jpg" alt="" width="1000">
 
@@ -11,7 +11,7 @@ Provide a description of any issues. If the issue has to be corrected add anothe
 
 ---
 
-## Language Two
+## Language Two- Chinese
 
 <img src="sp5-media/macos-safari.jpg" alt="" width="1000">
 
