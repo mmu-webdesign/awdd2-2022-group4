@@ -5,8 +5,13 @@
 Write an introduction to your report.
 
 1. What did you do?
-2. Why did you do it?
-3. How did you do it?
+   
+We conducted our inital useability testing by asking an internal and external particpant to review the site. Prior to conducting the testing we got both parties to sign individual consent forms to ensure we had their permission to progress with useability testing. We then asked them to explore the site, like they would if they were to browse any other website. We watched and made notes of any comments that were made and of the paths to find certain information they took. We also set the users with small tasks such as, find mens clothing, find the about us information and find girls clothing. 
+
+
+
+3. Why did you do it?
+4. How did you do it?
 
 ### Findings
 
