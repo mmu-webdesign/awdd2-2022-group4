@@ -1,98 +1,74 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<link rel="stylesheet" type="text/css" href="../../css/website.css">
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Document</title>
+	<title>News</title>
 </head>
 <body>
 
-<div class="navbar">
-  <a href="#home" class="dropdown">Home</a>
-  <div class="dropdown">
-    <button class="dropbtn">Clothes</button>
-    <div class="dropdown-content">
-      <div class="drop-header">
-      	<h2>Clothes</h2></div>
-      <div class="row">
-		<div class="column">
-			<a href="Pages/Clothes/Mens/mensSection.html"><h3>Mens</h3></a>
-			<a href="Pages/Clothes/Mens/MensSubCat/MensShirts.html">Mens Shirts</a>
-			<a href="Pages/Clothes/Mens/MensSubCat/MensTrousers.html">Mens Trousers</a>
-			<a href="Pages/Clothes/Mens/MensSubCat/outfitInspiration.html">Outfit Inspiration</a>
-		</div>
-		<div class="column">
-			<a href="Pages/Clothes/Womens/WomensGrouping.html"><h3>Womens</h3></a>
-			<a href="Pages/Clothes/Womens/WomensSubCat/WomensTops.html">Womens Tops</a>
-			<a href="Pages/Clothes/Womens/WomensSubCat/WomensTrousers.html">Womens Trousers</a>
-			<a href="Pages/Clothes/Womens/WomensSubCat/outfitInspiration.html">Outfit Inspiration</a>
-		</div>
-		<div class="column">
-			<a href="Pages/Clothes/GN/GNSection.html"><h3>Gender Neutral</h3></a>
-			<a href="Pages/Clothes/GN/GNSubCat/GNClothing.html">Gender Neutral Clothing</a>
-			<a href="Pages/Clothes/GN/GNSubCat/accessories.html">Accessories</a>
-			<a href="Pages/Clothes/GN/GNSubCat/OutfitInspiration.html">Outfit Inspiration</a>
-		</div>
-      </div>
-    </div>
-  </div>
-  <div class="dropdown">
-  	<button class="dropbtn">News & Trends</button>
-  	<div class="dropdown-content">
-  		<div class="drop-header">
-  			<h2>News & Trends</h2>
-  		</div>
-  		<div class="row">
-  			<div class="column">
-  				<a href="Pages/NewsTrends/News.html">News</a>
-  			</div>
-  			<div class="column">
-  				<a href="Pages/NewsTrends/blog.html">Blogs</a>
-  			</div>
-  			<div class="column">
-  				<a href="Pages/NewsTrends/offers.html">Offers</a>
-  			</div>
-  		</div>
-  	</div>
-  </div>
-  <div class="dropdown">
-  	<button class="dropbtn">Around Manchester</button>
-  	<div class="dropdown-content">
-  		<div class="drop-header">
-  			<h2>Around Manchester</h2>
-  		</div>
-  		<div class="row">
-  			<div class="column">
-  				<a href="Pages/manchester/manchesterFiles/manchesterMap.html">Map of Manchester</a>
-  			</div>
-  			<div class="column">
-  				<a href="Pages/manchester/manchesterFiles/d&I.html">Diversity and Inclusivity</a>
-  			</div>
-  		</div>
-  	</div>
-  </div>
-  <div class="dropdown">
-  	<button class="dropbtn">Contact Us</button>
-  	<div class="dropdown-content">
-  		<div class="drop-header">
-  			<h2>Contact Us</h2>
-  		</div>
-  		<div class="row">
-  			<div class="column">
-  				<a href="Pages/ContactUs/ContactUs.html">Contact Us</a>
-  				<a href="Pages/ContactUs/FeedbackForm.html">Give us Feedback</a>
-  			</div>
-  			<div class="column">
-  				<a href="Pages/ContactUs/faq.html">Frequently Asked Questions</a>
-  				<a href="Pages/ContactUs/AboutUs.html">About Us</a>
-  			</div>
-  			<div class="column">
-  				<a href="Pages/ContactUs/Socials.html">Socials</a>
-  			</div>
-  		</div>
-  	</div>
-  </div>
-</div>
+<section id="NavBarWrapper">
+	<!-- Nav Bar itself -->
+	<div id="navBar">
+		<ul>
+			<li><a href="/index.html">Home</a></li>
+			<li>
+				<span>Clothes <i class="sub"></i></span>
+				<ul class="dropdown">
+					<li>
+						<span><a href="/Pages/Clothes/Mens/mensSection.html">Mens <i class="sub"></i></a></span>
+						<ul class="dropdown">
+							<li><a href="/Pages/Clothes/Mens/MensSubCat/MensShirts.html">Mens Shirts</a></li>
+							<li><a href="/Pages/Clothes/Mens/MensSubCat/MensTrousers.html">Mens Trousers</a></li>
+							<li><a href="/Pages/Clothes/Mens/MensSubCat/outfitInspiration.html">Outfit Inspiration</a></li>
+						</ul>
+					</li>
+					<li>
+						<span><a href="/Pages/Clothes/Womens/WomensGrouping.html">Womens <i class="sub"></i></a></span>
+						<ul class="dropdown">
+							<li><a href="/Pages/Clothes/Womens/WomensSubCat/WomensShirts.html">Womens Shirts</a></li>
+							<li><a href="/Pages/Clothes/Womens/WomensSubCat/WomensTrousers.html">Womens Trousers</a></li>
+							<li><a href="/Pages/Clothes/Womens/WomensSubCat/outfitInspiration.html">Outfit Inspiration</a></li>
+						</ul>
+					</li>
+					<li>
+						<span><a href="/Pages/Clothes/GN/GNSection.html">Gender Neutral <i class="sub"></i></a></span>
+						<ul class="dropdown">
+							<li><a href="/Pages/Clothes/GN/GNSubCat/GNClothing.html">Gender Neutral Clothing</a></li>
+							<li><a href="/Pages/Clothes/GN/GNSubCat/accessories.html">Accessories</a></li>
+							<li><a href="/Pages/Clothes/GN/GNSubCat/OutfitInspiration.html">Outfit Inspiration</a></li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<span>News & Trends <i class="sub"></i></span>
+				<ul class="dropdown">
+					<li><a href="/Pages/NewsTrends/News.html">News</a></li>
+					<li><a href="/Pages/NewsTrends/blog.html">Blogs</a></li>
+					<li><a href="/Pages/NewsTrends/offers.html">Offers</a></li>
+				</ul>
+			</li>
+			<li>
+				<span>Around Manchester <i class="sub"></i></span>
+				<ul class="dropdown">
+					<li><a href="/Pages/manchester/manchesterFiles/manchesterMap.html">Map of Manchester</a></li>
+					<li><a href="/Pages/manchester/manchesterFiles/d&I.html">Diversity and Inclusivity</a></li>
+				</ul>
+			</li>
+			<li>
+				<span>Contact Us <i class="sub"></i></span>
+				<ul class="dropdown">
+					<li><a href="/Pages/ContactUs/ContactUs.html">Contact Us</a></li>
+					<li><a href="/Pages/ContactUs/faq.html">Frequently Asked Questions</a></li>
+					<li><a href="/Pages/ContactUs/AboutUs.html">About Us</a></li>
+					<li><a href="/Pages/ContactUs/Socials.html">Socials</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</section>
 
 <section class="news">
 	<div class="news-container">
