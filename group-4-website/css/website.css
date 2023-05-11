@@ -400,49 +400,48 @@ div {
 
 
 /* FAQ */
+/* Challenges with CSS Accordian - reverting to UL list*/
 
-
-.FAQ li {
-    list-style-type: none;
+/*
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
 }
 
-.collapse {
-    background-color: red;
-    color: black;
-    cursor: pointer;
-    padding: 20px;
-    width: 90%%;
-    text-align: left;
-    outline: none;
-}
-
-
-
-
-.collapse:hover {
+.accordion:hover .active{
     background-color: green;
 }
 
-
-
-
-.active {
-    background-color: blue;
+.active:after {
+    content: "\2212";
+}
+*/
+.panel {
+    list-style-type: circle;
+    /*
+  padding: 0 18px;
+  background-color: white;
+  display: none;*/
 }
 
-
-
-
-.collapse-content {
-    padding: 15px;
-    display: none;
-    overflow: hidden;
-    background-color: gray;
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
 }
 
-
-
-
+.collapse-content:after {
+  content: "\2212";
+}
 
 /* form styling */
 

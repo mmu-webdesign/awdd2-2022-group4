@@ -1,14 +1,14 @@
-var coll = document.getElementsByClassName("collapse");
+var acc = document.getElementsByClassName("accordion");
 var i;
 
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
     this.classList.toggle("active");
-    var collapse-content = this.nextElementSibling;
-    if (collapse-content.style.maxHeight){
-      collapse-content.style.maxHeight = null;
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
     } else {
-      collapse-content.style.maxHeight = collapse-content.scrollHeight + "px";
+      panel.style.maxHeight = panel.scrollHeight + "px";
     }
   });
 }
