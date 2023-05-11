@@ -4,7 +4,6 @@
 	<link rel="stylesheet" type="text/css" href="css/website.css">
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<script type="js/navBar.js"></script>
 	<title>Header-Build</title>
 </head>
 <body>
@@ -100,18 +99,8 @@
 	NavOpt2
 </p>
 <section id="NavBarWrapper">
-	<!-- NavBar Icon only -->
-	<div class="menuIconWrapper">
-		<div class="menuIcon" data-menu="NavBar">
-			<div class="threeLine">
-				<span></span>
-				<span></span>
-				<span></span>
-			</div>
-		</div>
-	</div>
 	<!-- Nav Bar itself -->
-	<div class="navBar">
+	<div id="navBar">
 		<ul>
 			<li><a href="/index.html">Home</a></li>
 			<li>
@@ -143,11 +132,34 @@
 					</li>
 				</ul>
 			</li>
+			<li>
+				<span>News & Trends <i class="sub"></i></span>
+				<ul class="dropdown">
+					<li><a href="/Pages/NewsTrends/News.html">News</a></li>
+					<li><a href="/Pages/NewsTrends/blog.html">Blogs</a></li>
+					<li><a href="/Pages/NewsTrends/offers.html">Offers</a></li>
+				</ul>
+			</li>
+			<li>
+				<span>Around Manchester <i class="sub"></i></span>
+				<ul class="dropdown">
+					<li><a href="/Pages/manchester/manchesterFiles/manchesterMap.html">Map of Manchester</a></li>
+					<li><a href="/Pages/manchester/manchesterFiles/d&I.html">Diversity and Inclusivity</a></li>
+				</ul>
+			</li>
+			<li>
+				<span>Contact Us <i class="sub"></i></span>
+				<ul class="dropdown">
+					<li><a href="/Pages/ContactUs/ContactUs.html">Contact Us</a></li>
+					<li><a href="/Pages/ContactUs/faq.html">Frequently Asked Questions</a></li>
+					<li><a href="/Pages/ContactUs/AboutUs.html">About Us</a></li>
+					<li><a href="/Pages/ContactUs/Socials.html">Socials</a></li>
+				</ul>
+			</li>
 		</ul>
 	</div>
 </section>
-
-
+<script src="js/navBar.js"></script>
 
 
 
