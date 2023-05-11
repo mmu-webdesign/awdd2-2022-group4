@@ -1,6 +1,7 @@
 /* Debug */
 /*
 * { border:1px solid red; }
+
 */
 
 /*HTML RESET ONLY*/
@@ -28,6 +29,9 @@ body {
     font-family: sans-serif;
     font-size: 100%;
     line-height: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     max-width: 1000px;
     background-color: gray;
     margin-left: auto;
@@ -90,6 +94,7 @@ div {
 
 
 /* Standard Pages */
+
 /* Header */
 /* Navbar container */
 
@@ -345,6 +350,7 @@ div {
 
 
 /* Clothes */
+
 .SubPageSel {
     display: flex;
     flex-direction: row;
