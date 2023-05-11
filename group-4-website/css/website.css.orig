@@ -1,7 +1,6 @@
 /* Debug */
 /*
 * { border:1px solid red; }
-
 */
 
 /*HTML RESET ONLY*/
@@ -29,14 +28,14 @@ body {
     font-family: sans-serif;
     font-size: 100%;
     line-height: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
     max-width: 1000px;
     background-color: gray;
+<<<<<<< HEAD
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
+=======
+>>>>>>> a1df4312c602f39fbe762b6ccc78e6992fc6f4fd
 }
 
 
@@ -94,7 +93,6 @@ div {
 
 
 /* Standard Pages */
-
 /* Header */
 /* Navbar container */
 
@@ -350,7 +348,6 @@ div {
 
 
 /* Clothes */
-
 .SubPageSel {
     display: flex;
     flex-direction: row;
@@ -400,48 +397,50 @@ div {
 
 
 /* FAQ */
-/* Challenges with CSS Accordian - reverting to UL list*/
 
-/*
-.accordion {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  text-align: left;
-  border: none;
-  outline: none;
-  transition: 0.4s;
+
+.FAQ li {
+    list-style-type: none;
 }
 
-.accordion:hover .active{
+.collapse {
+    background-color: red;
+    color: black;
+    cursor: pointer;
+    padding: 20px;
+    width: 90%%;
+    text-align: left;
+    outline: none;
+}
+
+
+
+
+.collapse:hover {
     background-color: green;
 }
 
-.active:after {
-    content: "\2212";
-}
-*/
-.panel {
-    list-style-type: circle;
-    /*
-  padding: 0 18px;
-  background-color: white;
-  display: none;*/
+
+
+
+.active {
+    background-color: blue;
 }
 
-.accordion:after {
-  content: '\002B';
-  color: #777;
-  font-weight: bold;
-  float: right;
-  margin-left: 5px;
+
+
+
+.collapse-content {
+    padding: 15px;
+    display: none;
+    overflow: hidden;
+    background-color: gray;
 }
 
-.collapse-content:after {
-  content: "\2212";
-}
+
+<<<<<<< HEAD
+
+
 
 /* form styling */
 
@@ -513,4 +512,6 @@ form input[type="submit"]:hover {
 }
 
 
+=======
+>>>>>>> a1df4312c602f39fbe762b6ccc78e6992fc6f4fd
 */
