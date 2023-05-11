@@ -1,0 +1,517 @@
+/* Debug */
+/*
+* { border:1px solid red; }
+*/
+
+/*HTML RESET ONLY*/
+
+html {
+    margin: 0;
+    padding: 0;
+}
+
+/*RESET END*/
+
+
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+body {
+
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 100%;
+    line-height: 1;
+    max-width: 1000px;
+    background-color: gray;
+<<<<<<< HEAD
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+=======
+>>>>>>> a1df4312c602f39fbe762b6ccc78e6992fc6f4fd
+}
+
+
+h1,
+h2 {
+    font-weight: normal;
+    font-family: sans-serif;
+    /* Google font, web safe font, generic fallback */
+}
+
+
+h1 {
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+}
+
+
+h2 {
+    font-size: 1.5rem;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    margin: 0;
+    padding: 0;
+}
+
+
+p {
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+div {
+
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    word-wrap: break-word;
+}
+
+
+
+/* Standard Pages */
+/* Header */
+/* Navbar container */
+
+#navBar
+{
+    width:auto;
+    display:block;
+    text-align:center;
+    font-family:Oswald;
+    line-height:1.2;
+}
+#navBar ul
+{
+    width:auto;
+    display:block;
+    font-size:0;
+    text-align:center;
+    color:#EEEEEE;
+    background-color: #333333;
+    border: transparent;
+    margin:0; 
+    padding:0;
+    list-style:none;
+    position:relative;
+    z-index:999999990;
+    border-radius: 3px;
+} 
+
+#navBar li
+{
+    display:inline-block;
+    position:relative;    
+    font-size:0; 
+    margin:0;
+    padding:0;
+}
+
+/*Top level items
+---------------------------------------*/
+
+#navBar >ul>li>span, #navBar >ul>li>a 
+{   
+    font-size:22px;
+    color:inherit;
+    text-decoration:none;
+    padding:14px 20px; 
+    font-weight:400;
+    text-transform:uppercase;
+    letter-spacing:2px;   
+    display:block;   
+    position:relative;
+    transition:all 0.3s;
+}
+#navBar li:hover > span, #navBar li:hover > a
+{  
+    color:#333333;
+    background-color:#F3F3F3;
+}
+
+/*Sub level items
+---------------------------------------*/
+#navBar .dropdown
+{
+    text-align:left;
+    left:0;
+    font-family:Helvetica, Arial, sans-serif;
+    color: #333333;
+    background-color:#F3F3F3;
+    border:none;
+    position:absolute;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    display:none;
+    opacity:0;
+    cursor:default;
+}
+
+#navBar .dropdown li {
+    display: block;  
+}
+
+#navBar .dropdown li > span, #navBar .dropdown li > a, #navBar .clm a, #navBar .clm h3 
+{
+    font-size:14px;
+    font-weight:400;
+    font-family:inherit;
+    margin:0;
+    padding:8px 20px; 
+    display:block;
+    color:inherit;
+    text-decoration:none;
+}
+#navBar .clm h3 {
+    font-size:20px;
+    font-weight:700;
+}
+#navBar .sub-item {
+    background-color:#F3F3F3;
+    position:relative;       
+    transition:all 0.3s;
+}
+
+#navBar .dropdown li:hover > span, #navBar .dropdown li:hover > a
+{
+
+    color:#333333;
+    background-color:#DDDDDD;
+}
+
+#navBar .clm a:hover
+{
+    color:#333333;
+    transition:color 0.2s;
+}
+
+#navBar .dropdown.right0 {left:auto;right:0;} 
+#navBar .dropdown li > .dropdown.right0 {left:auto;right:100%;} 
+       
+#navBar li.full-width{
+    position:static;
+}
+#navBar li.full-width .dropdown{
+    width:100%;
+    left:0;
+    box-sizing:border-box;
+}  
+
+#navBar li:hover > .dropdown
+{
+    display:block;
+    opacity:1;
+    z-index:1;
+}
+
+#navBar .dropdown li > .dropdown
+{
+    left:100%; right:auto;
+    top:0;
+}
+
+#navBar ul.dropdown
+{
+    min-width:240px; /* Sub level menu min width */
+}
+
+#navBar div.dropdown  {
+    text-align:center;
+}
+
+/* each column */
+#navBar .clm
+{
+    text-align:left;
+    margin:20px;
+    vertical-align:top;/*or middle*/
+    width:auto;
+    min-width:240px;
+    display:inline-block;
+    *display:inline;*zoom:1;
+}
+
+#navBar .clm a:hover
+{
+    color:#333333;
+    text-decoration:underline;
+}
+
+/*-----------Arrows----------------*/
+#navBar .sub {
+    color:inherit;
+    border-style:solid; border-width:2px 2px 0 0; padding:4px; transform:rotate(135deg);margin-top:-8.5px;margin-left:4px;
+    position:relative;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    vertical-align:middle;
+    overflow:hidden;/*for IE6*/
+}
+        
+#navBar .dropdown .sub {
+    transform:rotate(45deg);
+    top:50%;margin-top:-6px;
+    position:absolute;left:auto;right:20px;
+} 
+
+
+
+@keyframes topItemAnimation {
+  from {opacity: 0; transform:translate3d(0, -60px, 0);}
+  to {opacity: 1; transform:translate3d(0, 0, 0);}
+}
+#navBar li a {animation:none;}
+#navBar.active li a { animation: topItemAnimation 0.5s cubic-bezier(.16,.84,.44,1) 0.08333333333333333s backwards;}
+#navBar.active li:nth-of-type(1) a { animation: topItemAnimation 0.5s cubic-bezier(.16,.84,.44,1) 0.5s backwards;}
+#navBar.active li:nth-of-type(2) a { animation: topItemAnimation 0.5s cubic-bezier(.16,.84,.44,1) 0.4166666666666667s backwards;}
+#navBar.active li:nth-of-type(3) a { animation: topItemAnimation 0.5s cubic-bezier(.16,.84,.44,1) 0.3333333333333333s backwards;}
+#navBar.active li:nth-of-type(4) a { animation: topItemAnimation 0.5s cubic-bezier(.16,.84,.44,1) 0.25s backwards;}
+#navBar.active li:nth-of-type(5) a { animation: topItemAnimation 0.5s cubic-bezier(.16,.84,.44,1) 0.16666666666666666s backwards;}@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) { #navBar.active li a{animation:none!important;}}
+
+
+
+
+
+
+
+/* Footer */
+
+
+.page-footer {
+    margin: 10px;
+    background-color: #A0A0A0;
+}
+
+
+
+
+.footer-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+
+
+
+.footer-col {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+}
+
+.footer-col li {
+    list-style-type: none;
+}
+
+.footerbtn {
+    font-size: 12px;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: inherit;
+    font: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+    text-align: center;
+}
+
+
+
+.sub-footer-content {
+    text-align: center;
+}
+
+
+/* Clothes */
+.SubPageSel {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex: 1;
+    height: 400px;
+}
+
+.SubPageSelOpt {
+    position: relative;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 4em;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.textOverlay {
+    position: absolute;
+    text-align: center;
+    bottom: 20px;
+    width: 100%;
+}
+
+
+
+
+.textOverlay:hover, a:visited, .textoverlay a {
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+
+/* manchester */
+
+
+/* Map Details */
+
+.google-map {
+    height: 400px;
+    width: 100%;
+}
+
+
+/* Contact Us */
+
+
+/* FAQ */
+
+
+.FAQ li {
+    list-style-type: none;
+}
+
+.collapse {
+    background-color: red;
+    color: black;
+    cursor: pointer;
+    padding: 20px;
+    width: 90%%;
+    text-align: left;
+    outline: none;
+}
+
+
+
+
+.collapse:hover {
+    background-color: green;
+}
+
+
+
+
+.active {
+    background-color: blue;
+}
+
+
+
+
+.collapse-content {
+    padding: 15px;
+    display: none;
+    overflow: hidden;
+    background-color: gray;
+}
+
+
+<<<<<<< HEAD
+
+
+
+/* form styling */
+
+/* start copying from here */
+
+form label {
+  display: block;
+  /* instead of inline */
+  padding-bottom: 0.2em;
+  padding-top: 1em;
+}
+
+
+
+
+
+
+
+form input,
+
+form textarea {
+
+  padding: 0.4em 0.3em;
+
+  font-size: 1.5em;
+
+  /* lighter grey, less visually heavy */
+  border: 1px solid #bbb; 
+  /* make sure our fields aren't too wide or not wide enough */
+  min-width: 90%;
+  max-width: 90%;
+
+}
+
+
+
+
+form input[type="submit"] {
+
+  /* https://developer.mozilla.org/en/docs/Web/CSS/Attribute_selectors */
+
+  /* if you used display:block; this would go right across the page - if you use inline-block the button will only be as wide as the text and the padding */
+
+min-width:0;
+
+  /* turn off a minimum width for the button and let the browser work it out */
+  background-color: #e30;
+  border: 0;
+  border-radius: 1em;
+  padding: 13px 30px;
+  margin-top: 10px;
+
+  /* top and bottom, left and right */
+  font-size: 1em;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: white;
+  transition: background-color 0.2s ease;
+
+  /* less jarring transition from initial colour to hover colour */
+}
+
+
+form input[type="submit"]:hover {
+
+  background-color: #c30;
+
+  /* you don't have to change the colour too much for hover states - just make it a little bit lighter or darker */
+}
+
+
+=======
+>>>>>>> a1df4312c602f39fbe762b6ccc78e6992fc6f4fd
+*/
