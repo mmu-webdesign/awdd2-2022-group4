@@ -30,13 +30,16 @@ body {
     font-family: sans-serif;
     font-size: 100%;
     line-height: 1;
-    max-width: 1000px;
+    max-width: 680px;
     background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
 }
 
 
 
-/*
+
 h1,
 h2 {
     font-weight: normal;
@@ -44,7 +47,7 @@ h2 {
     /* Google font, web safe font, generic fallback */
 }
 
-/*
+
 h1 {
     font-size: 2rem;
     margin: 0;
@@ -82,50 +85,24 @@ img {
 div {
 
     max-width: 680px;
-
     margin-left: auto;
-
     margin-right: auto;
-
     padding: 10px;
-
     word-wrap: break-word;
-
 }
-
-
-
-
 
 
 
 /*Page size code summary*/
 
-
 /*
-
 @media screen and (min-width: 760px) {
-
-
-
 
 }
 
-
-
-
 /* Standard Pages */
-
-
-
-
 /* Header */
-
-
-
-
 /* Navbar container */
-
 /* Navbar container */
 .navbar {
   overflow: hidden;
@@ -226,140 +203,79 @@ div {
 /* Footer */
 
 
-
-
 .page-footer {
-
     margin: 10px;
-
     background-color: #A0A0A0;
-
 }
 
 
 
 
 .footer-row {
-
     display: flex;
-
     flex-direction: row;
-
     flex-wrap: wrap;
-
     width: 100%;
-
 }
 
 
 
 
 .footer-col {
-
     display: flex;
-
     flex-direction: column;
-
     flex-basis: 100%;
-
     flex: 1;
-
 }
 
 .footer-col li {
-
     list-style-type: none;
-
 }
 
 
 
 
 .sub-footer-content {
-
     text-align: center;
-
 }
-
-
-
-
-
 
 
 /* Clothes */
-
-
-
-
 .SubPageSel {
-
     display: flex;
-
     flex-direction: row;
-
     flex-wrap: wrap;
-
     flex: 1;
-
     height: 400px;
-
 }
-
-
-
 
 .SubPageSelOpt {
-
     position: relative;
-
     color: white;
-
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-
     font-size: 4em;
-
     padding-left: 1%;
-
     padding-right: 1%;
-
 }
 
-
-
-
 .textOverlay {
-
     position: absolute;
-
     text-align: center;
-
     bottom: 20px;
-
     width: 100%;
-
 }
 
 
 
 
 .textOverlay:hover, a:visited, .textoverlay a {
-
     color: white;
-
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-
 }
 
 
 
-
-
-
-
 /* manchester */
-
-
 
 
 /* Map Details */
@@ -367,7 +283,6 @@ div {
 .google-map {
     height: 400px;
     width: 100%;
-
 }
 
 
@@ -395,45 +310,25 @@ div {
 
 
 .collapse:hover {
-
     background-color: green;
-
 }
 
 
 
 
-
-
-
 .active {
-
     background-color: blue;
-
 }
 
 
 
 
 .collapse-content {
-
     padding: 15px;
-
     display: none;
-
     overflow: hidden;
-
     background-color: gray;
-
 }
-
-
-
-
-
-
-
-
 
 
 
@@ -444,15 +339,10 @@ div {
 /* start copying from here */
 
 form label {
-
   display: block;
-
   /* instead of inline */
-
   padding-bottom: 0.2em;
-
   padding-top: 1em;
-
 }
 
 
@@ -469,20 +359,10 @@ form textarea {
 
   font-size: 1.5em;
 
-
-
-
-
-
-
   /* lighter grey, less visually heavy */
-
   border: 1px solid #bbb; 
-
   /* make sure our fields aren't too wide or not wide enough */
-
   min-width: 90%;
-
   max-width: 90%;
 
 }
@@ -499,34 +379,21 @@ form input[type="submit"] {
 min-width:0;
 
   /* turn off a minimum width for the button and let the browser work it out */
-
   background-color: #e30;
-
   border: 0;
-
   border-radius: 1em;
-
   padding: 13px 30px;
-
   margin-top: 10px;
 
   /* top and bottom, left and right */
-
   font-size: 1em;
-
   text-transform: uppercase;
-
   font-weight: bold;
-
   color: white;
-
   transition: background-color 0.2s ease;
 
   /* less jarring transition from initial colour to hover colour */
-
 }
-
-
 
 
 form input[type="submit"]:hover {
@@ -534,10 +401,7 @@ form input[type="submit"]:hover {
   background-color: #c30;
 
   /* you don't have to change the colour too much for hover states - just make it a little bit lighter or darker */
-
 }
-
-
 
 
 */
