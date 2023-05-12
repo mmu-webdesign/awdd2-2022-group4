@@ -5,6 +5,8 @@ Including...
 ## HTML Validation
 
 Quality and efficiency of your code. If you have implemented code that does not validate you need to explain why.
+- <Section> tags have been used to wrap Navigation Bar on all pages. Validator reports a warning, however understood this can be ignored
+- 
 
 ## CSS Validation
 

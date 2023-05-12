@@ -402,9 +402,9 @@ div {
 /* FAQ */
 /* Challenges with CSS Accordian - reverting to UL list*/
 
-/*
-.accordion {
-  background-color: #eee;
+
+.collapse,
+.collapse-content {
   color: #444;
   cursor: pointer;
   padding: 18px;
@@ -413,8 +413,14 @@ div {
   border: none;
   outline: none;
   transition: 0.4s;
+  list-style-type: none;
 }
 
+.collapse-content {
+    padding-left: 3em;
+}
+
+/*
 .accordion:hover .active{
     background-color: green;
 }
@@ -439,10 +445,10 @@ div {
   margin-left: 5px;
 }
 
-.collapse-content:after {
+/*.collapse-content:after {
   content: "\2212";
 }
-
+*/
 /* form styling */
 
 /* start copying from here */
