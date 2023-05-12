@@ -416,6 +416,10 @@ div {
   list-style-type: none;
 }
 
+.collapse-content {
+    padding-left: 3em;
+}
+
 /*
 .accordion:hover .active{
     background-color: green;
